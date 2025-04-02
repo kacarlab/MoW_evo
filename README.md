@@ -1,2 +1,5 @@
 # Natural History of Biological Mo/W Usage
 ## Summary
+Molybdenum (Mo) is an essential nutrient for most living organisms, serving as a cofactor in a diverse array of molybdoenzymes that catalyze key reactions in several elemental cycles. The history of biological Mo usage is engimatic. Molybdoenzymes are widely distributed across the modern tree of life, found in organisms inhabiting a wide variety of ecological conditions. A growing body of evidence also suggests high biological demand for Mo on the early Earth. This is seemingly at odds with predicted levels of low marine Mo during the Archean, as inferred from geochemical records. 
+
+Here, we take a phylogenomic approach to map the distribution of Mo usage across modern organisms and their ecological context. We then reconstruct the evolutionary history of Mo-related proteins across the modern tree of life. Our goal is to identify the earliest Mo-using biological processes and outline stages in the evolution of Mo-using enzymes across deep time.
