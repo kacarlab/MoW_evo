@@ -1,0 +1,106 @@
+ko_number	description	group_lvl1	group_lvl2	reaction	reaction_name
+K03639	"moaA, CNX2; GTP 3',8-cyclase [EC:4.1.99.22]"	moco_synthesis	moco_synthesis_1		
+K20967	"MOCS1; GTP 3',8-cyclase / cyclic pyranopterin monophosphate synthase [EC:4.1.99.22 4.6.1.17]"	moco_synthesis	moco_synthesis_1		
+K03637	"moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]"	moco_synthesis	moco_synthesis_2		
+K20967	"MOCS1; GTP 3',8-cyclase / cyclic pyranopterin monophosphate synthase [EC:4.1.99.22 4.6.1.17]"	moco_synthesis	moco_synthesis_2		
+K03635	"MOCS2B, moaE; molybdopterin synthase catalytic subunit [EC:2.8.1.12]"	moco_synthesis	moco_synthesis_3		
+K21142	moaX; MoaE-MoaD fusion protein [EC:2.8.1.12]	moco_synthesis	moco_synthesis_3		
+K03831	mogA; molybdopterin adenylyltransferase [EC:2.7.7.75]	moco_synthesis	moco_synthesis_4		
+K03638	moaB; molybdopterin adenylyltransferase [EC:2.7.7.75]	moco_synthesis	moco_synthesis_4		
+K15376	GPHN; gephyrin [EC:2.10.1.1 2.7.7.75]	moco_synthesis	moco_synthesis_4		
+K15376	GPHN; gephyrin [EC:2.10.1.1 2.7.7.75]	moco_synthesis	moco_synthesis_5		
+K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	moco_synthesis	moco_synthesis_5		
+K07141	mocA; molybdenum cofactor cytidylyltransferase [EC:2.7.7.76]	moco_synthesis	moco_synthesis_cyt		
+K13818	mobAB; molybdopterin-guanine dinucleotide biosynthesis protein [EC:2.7.7.77]	moco_synthesis	moco_synthesis_guan		
+K03752	mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77]	moco_synthesis	moco_synthesis_guan		
+K21142	moaX; MoaE-MoaD fusion protein [EC:2.8.1.12]	moco_synthesis	moco_synthesis_s1		
+K03636	"moaD, cysO; sulfur-carrier protein"	moco_synthesis	moco_synthesis_s1		
+K21232	"MOCS2A, CNXG; molybdopterin synthase sulfur carrier subunit"	moco_synthesis	moco_synthesis_s1		
+K04487	"iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]"	moco_synthesis	moco_synthesis_s2		
+K21028	ynjE; molybdopterin synthase sulfurtransferase [EC:2.8.1.11]	moco_synthesis	moco_synthesis_s2		
+K11996	"MOCS3, UBA4; adenylyltransferase and sulfurtransferase [EC:2.7.7.80 2.8.1.11]"	moco_synthesis	moco_synthesis_s2		
+K21029	moeB; molybdopterin-synthase adenylyltransferase [EC:2.7.7.80]	moco_synthesis	moco_synthesis_s3		
+K21147	"moeZR, moeBR; sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.8.1.-]"	moco_synthesis	moco_synthesis_s3		
+K15631	ABA3; molybdenum cofactor sulfurtransferase [EC:2.8.1.9]	moco_synthesis	moco_synthesis_thio		
+K20625	ahy; acetylene hydratase [EC:4.2.1.112]	dmso_red_fam_a	ahy	R05380	acetaldehyde hydro-lyase
+K08356	aoxB; arsenite oxidase large subunit [EC:1.20.2.1 1.20.9.1]	dmso_red_fam_a	aox_arsenite	R09787	arsenite:cytochrome c oxidoreductase
+K08351	bisC; biotin/methionine sulfoxide reductase [EC:1.-.-.-]	dmso_red_fam_a	bis	R10127	biotin:NADP+ S-oxidoreductase (biotin S-oxide-forming)
+K16964	ddhA; dimethylsulfide dehydrogenase subunit alpha [EC:1.8.2.4]	dmso_red_fam_a	ddh		
+K07306	dmsA; anaerobic dimethyl sulfoxide reductase subunit A [EC:1.8.5.3]	dmso_red_fam_a	dms		
+K10700	ebdA; ethylbenzene hydroxylase subunit alpha [EC:1.17.99.2]	dmso_red_fam_a	ebd		
+K22341	"fdhF2; formate dehydrogenase (NAD+, ferredoxin) subunit [EC:1.17.1.11]"	dmso_red_fam_a	fdh_nadferr		
+K22516	fdhA; formate dehydrogenase (coenzyme F420) alpha subunit [EC:1.17.98.3 1.8.98.6]	dmso_red_fam_a	fdh_f420	R10797	
+K22015	fdhF; formate dehydrogenase (hydrogenase) [EC:1.17.98.4 1.17.98.-]	dmso_red_fam_a	fdh_h	R12754	
+K05299	fdhA; formate dehydrogenase (NADP+) alpha subunit [EC:1.17.1.10]	dmso_red_fam_a	fdh_nadp	R00134	
+K00123	"fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]"	dmso_red_fam_a	fdo_fdh_fdw_nad	R00519	
+K08348	"fdnG; formate dehydrogenase-N, alpha subunit [EC:1.17.5.3]"	dmso_red_fam_a	fdn		
+K18558	frdC; NADH-dependent fumarate reductase subunit C	dmso_red_fam_a	frd		
+K00201	"fwdB, fmdB; formylmethanofuran dehydrogenase subunit B [EC:1.2.7.12]"	dmso_red_fam_a	fwd_fmd	R03015	formylmethanofuran:ferredoxin oxidoreductase
+K02567	napA; nitrate reductase (cytochrome) [EC:1.9.6.1]	dmso_red_fam_a	nap		
+K00367	narB; ferredoxin-nitrate reductase [EC:1.7.7.2]	dmso_red_fam_a	nar		
+K00370	"narG, narZ, nxrA; nitrate reductase / nitrite oxidoreductase, alpha subunit [EC:1.7.5.1 1.7.99.-]"	dmso_red_fam_a	nar_nxr		
+K00372	"nasC, nasA; assimilatory nitrate reductase catalytic subunit [EC:1.7.99.-]"	dmso_red_fam_a	nas		
+K03934	NDUFS1; NADH dehydrogenase (ubiquinone) Fe-S protein 1 [EC:7.1.1.2]	dmso_red_fam_a	ndufs		
+K18361	padB; phenylacetyl-CoA:acceptor oxidoreductase [EC:1.17.5.1 3.1.2.25]	dmso_red_fam_a	pad		
+K08352	"phsA, psrA; thiosulfate reductase / polysulfide reductase chain A [EC:1.8.5.5]"	dmso_red_fam_a	phs_psr		
+K23302	"qrcB; menaquinone reductase, molybdopterin-binding-like subunit"	dmso_red_fam_a	qrc		
+K24713	s25dA; steroid C-25 hydroxylase alpha subunit [EC:1.17.99.10]	dmso_red_fam_a	s25d		
+K17050	"serA, clrA; selenate/chlorate reductase subunit alpha [EC:1.97.1.9 1.97.1.1]"	dmso_red_fam_a	ser_clr		
+K21307	soeA; sulfite dehydrogenase (quinone) subunit SoeA [EC:1.8.5.6]	dmso_red_fam_a	soe		
+K17219	sreA; sulfur reductase molybdopterin subunit	dmso_red_fam_a	sre		
+K07812	torZ; trimethylamine-N-oxide reductase (cytochrome c) [EC:1.7.2.3]	dmso_red_fam_a	torz		
+K07811	torA; trimethylamine-N-oxide reductase (cytochrome c) [EC:1.7.2.3]	dmso_red_fam_a	tora		
+K08357	ttrA; tetrathionate reductase subunit A	dmso_red_fam_a	ttr		
+K07309	ynfE; Tat-targeted selenate reductase subunit YnfE [EC:1.97.1.9]	dmso_red_fam_a	ynf		
+K07147	msrP; methionine sulfoxide reductase catalytic subunit [EC:1.8.-.-]	so_fam_a	msr		
+K10534	NR; nitrate reductase (NAD(P)H) [EC:1.7.1.1 1.7.1.2 1.7.1.3]	so_fam_a	nr_euk		
+K05301	sorA; sulfite dehydrogenase (cytochrome) subunit A [EC:1.8.2.1]	so_fam_a	sor		
+K00387	SUOX; sulfite oxidase [EC:1.8.3.1]	so_fam_a	suox		
+K17225	soxC; sulfane dehydrogenase subunit SoxC	so_fam_a	sox		
+K03738	aor; aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	aor_fam	aor		
+K11389	gapor; glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6]	aor_fam	gapor		
+K19515	bamB; benzoyl-CoA reductase subunit BamB [EC:1.3.-.-]	aor_fam	bam		
+K00157	AOX; aldehyde oxidase [EC:1.2.3.1]	xo_fam_c	aox_aldehyde		
+K09842	AAO3; abscisic-aldehyde oxidase [EC:1.2.3.14]	xo_fam_c	aao1		
+K12528	xdhD; putative selenate reductase molybdopterin-binding subunit	xo_fam_c	xdh_sel		
+K03520	"coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]"	xo_fam_c	cox_cut		
+K11817	AAO1_2; indole-3-acetaldehyde oxidase [EC:1.2.3.7]	xo_fam_c	aao3		
+K22417	AAO4; benzaldehyde dehydrogenase (NAD+) / indole-3-acetaldehyde oxidase [EC:1.2.1.28 1.2.3.7]	xo_fam_c	aao4		
+K04108	"hcrA, hbaC; 4-hydroxybenzoyl-CoA reductase subunit alpha [EC:1.1.7.1]"	xo_fam_c	hcr_hba		
+K24716	atcA; 3-oxo-Delta1-steroid hydratase/dehydrogenase large subunit [EC:1.17.99.11]	xo_fam_c	atc		
+K16877	hmfA; 2-furoyl-CoA dehydrogenase large subunit [EC:1.3.99.8]	xo_fam_c	hmf		
+K19187	kdhL; 6-hydroxypseudooxynicotine dehydrogenase subunit gamma [EC:1.5.99.14]	xo_fam_c	kdh		
+K18020	cutA; glyceraldehyde dehydrogenase large subunit [EC:1.2.99.8]	xo_fam_c	cut		
+K19820	ndhC; nicotine dehydrogenase subunit C [EC:1.5.99.4]	xo_fam_c	ndh_nicotine		
+K20171	spmA; 3-succinoylpyridine monooxygenase subunit A	xo_fam_c	spm		
+K07303	iorB; isoquinoline 1-oxidoreductase subunit beta [EC:1.3.99.16]	xo_fam_c	ior		
+K07469	mop; aldehyde oxidoreductase [EC:1.2.99.7]	xo_fam_c	mop		
+K20447	ndhL; nicotinate dehydrogenase large molybdopterin subunit [EC:1.17.1.5]	xo_fam_c	ndh		
+K20448	ndhM; nicotinate dehydrogenase medium molybdopterin subunit [EC:1.17.1.5]	xo_fam_c	ndh_nicotinate		
+K13482	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]	xo_fam_c	xdh		
+K00106	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	xo_fam_c	xdh_euk		
+K11177	yagR; xanthine dehydrogenase YagR molybdenum-binding subunit [EC:1.17.1.4]	xo_fam_c	yag		
+K00087	"ygeS, xdhA; xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]"	xo_fam_c	yge_xdh		
+K18030	nicB; nicotinate dehydrogenase subunit B [EC:1.17.2.1]	xo_fam_c	nic		
+K02588	nifH; nitrogenase iron protein NifH	mo_n_fix	mo_n_fix		
+K02586	nifD; nitrogenase molybdenum-iron protein alpha chain [EC:1.18.6.1]	mo_n_fix	mo_n_fix		
+K02591	nifK; nitrogenase molybdenum-iron protein beta chain [EC:1.18.6.1]	mo_n_fix	mo_n_fix		
+K22896	vnfD; vanadium-dependent nitrogenase alpha chain [EC:1.18.6.2]	alt_n_fix	alt_n_fix		
+K22897	vnfK; vanadium-dependent nitrogenase beta chain [EC:1.18.6.2]	alt_n_fix	alt_n_fix		
+K22898	vnfG; vanadium nitrogenase delta subunit [EC:1.18.6.2]	alt_n_fix	alt_n_fix		
+K22899	vnfH; vanadium nitrogenase iron protein	alt_n_fix	alt_n_fix		
+K00531	anfG; nitrogenase delta subunit [EC:1.18.6.1]	alt_n_fix	alt_n_fix		
+K02587	nifE; nitrogenase molybdenum-cofactor synthesis protein NifE	femoco_synthesis	femoco_synthesis		
+K02592	nifN; nitrogenase molybdenum-iron protein NifN	femoco_synthesis	femoco_synthesis		
+K02585	nifB; nitrogen fixation protein NifB	femoco_synthesis	femoco_synthesis		
+K00947	mosAB; molybdenum storage protein	mo_storage	mo_storage		
+K15790	nifQ; nitrogen fixation protein NifQ	mo_traffick	mo_traffick		
+K02018	modB; molybdate transport system permease protein	mo_transport	mo_transport		
+K02017	modC; molybdate transport system ATP-binding protein [EC:7.3.2.5]	mo_transport	mo_transport		
+K02020	modA; molybdate transport system substrate-binding protein	mo_transport	mo_transport		
+K15496	wtpB; molybdate/tungstate transport system permease protein	mo_w_transport	mo_w_transport		
+K15497	wtpC; molybdate/tungstate transport system ATP-binding protein [EC:7.3.2.5 7.3.2.6]	mo_w_transport	mo_w_transport		
+K15495	wtpA; molybdate/tungstate transport system substrate-binding protein	mo_w_transport	mo_w_transport		
+K05773	"tupB, vupB; tungstate transport system permease protein"	w_transport	w_transport		
+K06857	"tupC, vupC; tungstate transport system ATP-binding protein [EC:7.3.2.6]"	w_transport	w_transport		
+K05772	"tupA, vupA; tungstate transport system substrate-binding protein"	w_transport	w_transport		
