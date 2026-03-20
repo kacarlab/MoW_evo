@@ -1,0 +1,36 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	277	276	NA	3169.945	3142.94	3156.4425
+spe	276	275	NA	3142.94	3039.065	3091.0025
+los	275	274	NA	3039.065	2618.66	2828.8625
+spe	276	270	NA	3142.94	2997.52	3070.23
+hgt origin	270	GCA.001567115.1.Bacteria.OLB16	1: GCA.001567115.1.Bacteria.OLB16 to dead	2997.52	0.0	1498.76
+hgt	None	dead	1: GCA.001567115.1.Bacteria.OLB16 to dead	0.0	0.0	0.0
+los	270	GCA.001567115.1.Bacteria.OLB16	NA	2997.52	0.0	1498.76
+hgt origin	None	dead	2: dead to 754	0.0	0.0	0.0
+hgt	756	754	2: dead to 754	2888.115	2746.525	2817.32
+los	None	dead	NA	0.0	0.0	0.0
+spe	756	754	NA	2888.115	2746.525	2817.32
+spe	754	746	NA	2746.525	2548.44	2647.4825
+hgt origin	746	GCF.900079095.1.Bacteria.Tectomicrobia	3: GCF.900079095.1.Bacteria.Tectomicrobia to dead	2548.44	0.0	1274.22
+hgt	None	dead	3: GCF.900079095.1.Bacteria.Tectomicrobia to dead	0.0	0.0	0.0
+los	746	GCF.900079095.1.Bacteria.Tectomicrobia	NA	2548.44	0.0	1274.22
+hgt origin	None	dead	4: dead to GCA.001771285.1.Bacteria.Methylomirabilota	0.0	0.0	0.0
+hgt	741	GCA.001771285.1.Bacteria.Methylomirabilota	4: dead to GCA.001771285.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+los	None	dead	NA	0.0	0.0	0.0
+spe	754	753	NA	2746.525	2583.27	2664.8975
+spe	753	751	NA	2583.27	2475.955	2529.6125
+los	751	749	NA	2475.955	2363.875	2419.915
+hgt origin	753	GCA.001803565.1.Bacteria.Nitrospinota.B	5: GCA.001803565.1.Bacteria.Nitrospinota.B to dead	2583.27	0.0	1291.635
+hgt	None	dead	5: GCA.001803565.1.Bacteria.Nitrospinota.B to dead	0.0	0.0	0.0
+los	753	GCA.001803565.1.Bacteria.Nitrospinota.B	NA	2583.27	0.0	1291.635
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	6: dead to GCA.002401295.1.Bacteria.SAR324	0.0	0.0	0.0
+hgt	400	GCA.002401295.1.Bacteria.SAR324	6: dead to GCA.002401295.1.Bacteria.SAR324	2693.845	0.0	1346.9225
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	7: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	7: dead to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	8: dead to GCF.003097315.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	8: dead to GCF.003097315.1.Bacteria.Proteobacteria	1943.945	0.0	971.9725
+los	None	dead	NA	0.0	0.0	0.0

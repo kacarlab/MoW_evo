@@ -1,0 +1,18 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	275	GCA.001784175.1.Bacteria.Lindowbacteria	1: GCA.001784175.1.Bacteria.Lindowbacteria to GCA.002746185.1.Bacteria.Hydrogenedentota	2878.805	0.0	1439.4025
+hgt	270	GCA.002746185.1.Bacteria.Hydrogenedentota	1: GCA.001784175.1.Bacteria.Lindowbacteria to GCA.002746185.1.Bacteria.Hydrogenedentota	2795.225	0.0	1397.6125
+hgt origin	275	GCA.001784175.1.Bacteria.Lindowbacteria	2: GCA.001784175.1.Bacteria.Lindowbacteria to dead	2878.805	0.0	1439.4025
+hgt	None	dead	2: GCA.001784175.1.Bacteria.Lindowbacteria to dead	0.0	0.0	0.0
+hgt origin	None	-1	3: -1 to GCA.002401295.1.Bacteria.SAR324	0.0	0.0	0.0
+hgt	400	GCA.002401295.1.Bacteria.SAR324	3: -1 to GCA.002401295.1.Bacteria.SAR324	2394.165	0.0	1197.0825
+hgt origin	None	dead	4: dead to GCA.002500605.1.Bacteria.Nitrospinota	0.0	0.0	0.0
+hgt	751	GCA.002500605.1.Bacteria.Nitrospinota	4: dead to GCA.002500605.1.Bacteria.Nitrospinota	1941.285	0.0	970.6425
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	400	GCA.002401295.1.Bacteria.SAR324	5: GCA.002401295.1.Bacteria.SAR324 to GCA.002731375.1.Bacteria.Proteobacteria	2394.165	0.0	1197.0825
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	5: GCA.002401295.1.Bacteria.SAR324 to GCA.002731375.1.Bacteria.Proteobacteria	1143.1505	0.0	571.57525
+hgt origin	498	GCA.002731375.1.Bacteria.Proteobacteria	6: GCA.002731375.1.Bacteria.Proteobacteria to GCF.003097315.1.Bacteria.Proteobacteria	1143.1505	0.0	571.57525
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	6: GCA.002731375.1.Bacteria.Proteobacteria to GCF.003097315.1.Bacteria.Proteobacteria	1345.44	0.0	672.72
+hgt origin	270	GCA.002746185.1.Bacteria.Hydrogenedentota	7: GCA.002746185.1.Bacteria.Hydrogenedentota to GCA.001771285.1.Bacteria.Methylomirabilota	2795.225	0.0	1397.6125
+hgt	741	GCA.001771285.1.Bacteria.Methylomirabilota	7: GCA.002746185.1.Bacteria.Hydrogenedentota to GCA.001771285.1.Bacteria.Methylomirabilota	2099.065	0.0	1049.5325
+hgt origin	741	GCA.001771285.1.Bacteria.Methylomirabilota	8: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002238965.1.Bacteria.UBA8248	2099.065	0.0	1049.5325
+hgt	746	GCA.002238965.1.Bacteria.UBA8248	8: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002238965.1.Bacteria.UBA8248	2036.715	0.0	1018.3575

@@ -1,0 +1,66 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	91	90	NA	2166.265	1969.495	2067.88
+spe	90	89	NA	1969.495	1812.405	1890.95
+spe	89	88	NA	1812.405	1663.625	1738.015
+los	88	80	NA	1663.625	1371.305	1517.465
+spe	88	87	NA	1663.625	1542.125	1602.875
+spe	87	86	NA	1542.125	1366.345	1454.235
+los	86	GCA.001412335.1.Archaea.Halobacteriota	NA	1366.345	0.0	683.1725
+hgt origin	86	84	1: 84 to dead	1366.345	1169.197	1267.771
+hgt	None	dead	1: 84 to dead	0.0	0.0	0.0
+hgt origin	None	dead	2: dead to GCF.000970205.1.Archaea.Halobacteriota	0.0	0.0	0.0
+hgt	84	GCF.000970205.1.Archaea.Halobacteriota	2: dead to GCF.000970205.1.Archaea.Halobacteriota	1169.197	0.0	584.5985
+los	None	dead	NA	0.0	0.0	0.0
+spe	86	84	NA	1366.345	1169.197	1267.771
+los	84	GCF.000011005.1.Archaea.Euryarchaeota	NA	1169.197	0.0	584.5985
+spe	89	77	NA	1812.405	1412.42	1612.4125
+spe	90	74	NA	1969.495	1616.7	1793.0975
+hgt origin	74	GCA.002011165.1.Archaea.Halobacteriota	3: GCA.002011165.1.Archaea.Halobacteriota to dead	1616.7	0.0	808.35
+hgt	None	dead	3: GCA.002011165.1.Archaea.Halobacteriota to dead	0.0	0.0	0.0
+hgt origin	74	GCA.002011165.1.Archaea.Halobacteriota	4: GCA.002011165.1.Archaea.Halobacteriota to dead	1616.7	0.0	808.35
+hgt	None	dead	4: GCA.002011165.1.Archaea.Halobacteriota to dead	0.0	0.0	0.0
+hgt origin	None	dead	5: dead to GCA.001593855.1.Archaea.Thermoproteota	0.0	0.0	0.0
+hgt	118	GCA.001593855.1.Archaea.Thermoproteota	5: dead to GCA.001593855.1.Archaea.Thermoproteota	1643.115	0.0	821.5575
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	118	GCA.001593855.1.Archaea.Thermoproteota	6: GCA.001593855.1.Archaea.Thermoproteota to dead	1643.115	0.0	821.5575
+hgt	None	dead	6: GCA.001593855.1.Archaea.Thermoproteota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	7: dead to GCA.001563325.1.Archaea.Asgardarchaeota	0.0	0.0	0.0
+hgt	143	GCA.001563325.1.Archaea.Asgardarchaeota	7: dead to GCA.001563325.1.Archaea.Asgardarchaeota	1902.65	0.0	951.325
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	8: dead to GCA.001563325.1.Archaea.Asgardarchaeota	0.0	0.0	0.0
+hgt	143	GCA.001563325.1.Archaea.Asgardarchaeota	8: dead to GCA.001563325.1.Archaea.Asgardarchaeota	1902.65	0.0	951.325
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	9: dead to GCA.001593865.1.Archaea.Thermoproteota	0.0	0.0	0.0
+hgt	113	GCA.001593865.1.Archaea.Thermoproteota	9: dead to GCA.001593865.1.Archaea.Thermoproteota	1643.05	0.0	821.525
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	113	GCA.001593865.1.Archaea.Thermoproteota	10: GCA.001593865.1.Archaea.Thermoproteota to dead	1643.05	0.0	821.525
+hgt	None	dead	10: GCA.001593865.1.Archaea.Thermoproteota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	11: dead to GCA.002011075.1.Archaea.Thermoproteota	0.0	0.0	0.0
+hgt	128	GCA.002011075.1.Archaea.Thermoproteota	11: dead to GCA.002011075.1.Archaea.Thermoproteota	925.9285	0.0	462.96425
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	12: dead to GCA.001273335.1.Archaea.Thermoproteota	0.0	0.0	0.0
+hgt	121	GCA.001273335.1.Archaea.Thermoproteota	12: dead to GCA.001273335.1.Archaea.Thermoproteota	1422.225	0.0	711.1125
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	13: dead to GCA.001723855.1.Archaea.Altiarchaeota	0.0	0.0	0.0
+hgt	31	GCA.001723855.1.Archaea.Altiarchaeota	13: dead to GCA.001723855.1.Archaea.Altiarchaeota	1919.745	0.0	959.8725
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	31	GCA.001723855.1.Archaea.Altiarchaeota	14: GCA.001723855.1.Archaea.Altiarchaeota to dead	1919.745	0.0	959.8725
+hgt	None	dead	14: GCA.001723855.1.Archaea.Altiarchaeota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	15: dead to GCA.002841105.1.Archaea.Altiarchaeota	0.0	0.0	0.0
+hgt	26	GCA.002841105.1.Archaea.Altiarchaeota	15: dead to GCA.002841105.1.Archaea.Altiarchaeota	790.375	0.0	395.1875
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	16: dead to GCA.001742785.1.Archaea.Altiarchaeota	0.0	0.0	0.0
+hgt	29	GCA.001742785.1.Archaea.Altiarchaeota	16: dead to GCA.001742785.1.Archaea.Altiarchaeota	1492.545	0.0	746.2725
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	17: dead to GCF.002201895.1.Archaea.Euryarchaeota	0.0	0.0	0.0
+hgt	35	GCF.002201895.1.Archaea.Euryarchaeota	17: dead to GCF.002201895.1.Archaea.Euryarchaeota	1886.455	0.0	943.2275
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	18: dead to GCF.000025525.1.Archaea.Methanobacteriota.A	0.0	0.0	0.0
+hgt	93	GCF.000025525.1.Archaea.Methanobacteriota.A	18: dead to GCF.000025525.1.Archaea.Methanobacteriota.A	2558.825	0.0	1279.4125
+los	None	dead	NA	0.0	0.0	0.0

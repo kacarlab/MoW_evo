@@ -1,0 +1,639 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	1470	1469	1: 1469 to GCA.003023725.1.Bacteria.Firmicutes.E	2595.865	2472.76	2534.3125
+hgt	1228	GCA.003023725.1.Bacteria.Firmicutes.E	1: 1469 to GCA.003023725.1.Bacteria.Firmicutes.E	2573.425	0.0	1286.7125
+hgt origin	1470	1469	2: 1469 to 796	2595.865	2472.76	2534.3125
+hgt	797	796	2: 1469 to 796	2488.59	2368.175	2428.3825
+hgt origin	1470	1469	3: 1469 to GCF.900079095.1.Bacteria.Tectomicrobia	2595.865	2472.76	2534.3125
+hgt	746	GCF.900079095.1.Bacteria.Tectomicrobia	3: 1469 to GCF.900079095.1.Bacteria.Tectomicrobia	2548.44	0.0	1274.22
+hgt origin	1470	1469	4: 1469 to 1461	2595.865	2472.76	2534.3125
+hgt	1462	1461	4: 1469 to 1461	2688.275	2433.39	2560.8325
+spe	1470	1469	NA	2595.865	2472.76	2534.3125
+spe	1469	1467	NA	2472.76	2363.295	2418.0275
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	5: GCA.002292925.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2363.295	0.0	1181.6475
+hgt	1469	GCA.001898225.1.Bacteria.Chloroflexota	5: GCA.002292925.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2472.76	0.0	1236.38
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	6: GCA.002292925.1.Bacteria.Chloroflexota to GCA.003151665.1.Bacteria.Dormibacterota	2363.295	0.0	1181.6475
+hgt	1396	GCA.003151665.1.Bacteria.Dormibacterota	6: GCA.002292925.1.Bacteria.Chloroflexota to GCA.003151665.1.Bacteria.Dormibacterota	2525.675	0.0	1262.8375
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	7: GCA.002292925.1.Bacteria.Chloroflexota to dead	2363.295	0.0	1181.6475
+hgt	None	dead	7: GCA.002292925.1.Bacteria.Chloroflexota to dead	0.0	0.0	0.0
+hgt origin	None	dead	8: dead to GCA.003019535.1.Archaea.Thermoproteota	0.0	0.0	0.0
+hgt	107	GCA.003019535.1.Archaea.Thermoproteota	8: dead to GCA.003019535.1.Archaea.Thermoproteota	2229.765	0.0	1114.8825
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	9: GCA.002292925.1.Bacteria.Chloroflexota to GCA.002898935.1.Bacteria.CSP1.3	2363.295	0.0	1181.6475
+hgt	1128	GCA.002898935.1.Bacteria.CSP1.3	9: GCA.002292925.1.Bacteria.Chloroflexota to GCA.002898935.1.Bacteria.CSP1.3	3141.47	0.0	1570.735
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	10: GCA.002292925.1.Bacteria.Chloroflexota to 1440	2363.295	0.0	1181.6475
+hgt	1446	1440	10: GCA.002292925.1.Bacteria.Chloroflexota to 1440	2467.265	2358.68	2412.9725
+hgt origin	1467	GCA.002292925.1.Bacteria.Chloroflexota	11: GCA.002292925.1.Bacteria.Chloroflexota to GCF.000025005.1.Bacteria.Chloroflexota	2363.295	0.0	1181.6475
+hgt	1470	GCF.000025005.1.Bacteria.Chloroflexota	11: GCA.002292925.1.Bacteria.Chloroflexota to GCF.000025005.1.Bacteria.Chloroflexota	2595.865	0.0	1297.9325
+hgt origin	1446	1440	12: 1440 to GCA.002413265.1.Bacteria.Chloroflexota	2467.265	2358.68	2412.9725
+hgt	1461	GCA.002413265.1.Bacteria.Chloroflexota	12: 1440 to GCA.002413265.1.Bacteria.Chloroflexota	2433.39	0.0	1216.695
+hgt origin	1446	1440	13: 1440 to 514	2467.265	2358.68	2412.9725
+hgt	515	514	13: 1440 to 514	2401.52	2299.515	2350.5175
+spe	1446	1440	NA	2467.265	2358.68	2412.9725
+spe	1440	1439	NA	2358.68	2159.315	2258.9975
+los	1439	1438	NA	2159.315	1986.755	2073.035
+hgt origin	515	514	14: 514 to GCA.003220615.1.Bacteria.Methylomirabilota	2401.52	2299.515	2350.5175
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	14: 514 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+spe	515	514	NA	2401.52	2299.515	2350.5175
+spe	514	436	NA	2299.515	2217.14	2258.3275
+hgt origin	436	GCA.002722885.1.Bacteria.Proteobacteria	15: GCA.002722885.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	15: GCA.002722885.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	436	GCA.002722885.1.Bacteria.Proteobacteria	16: GCA.002722885.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	16: GCA.002722885.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+hgt origin	436	GCA.002722885.1.Bacteria.Proteobacteria	17: GCA.002722885.1.Bacteria.Proteobacteria to GCA.002480495.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+hgt	506	GCA.002480495.1.Bacteria.Proteobacteria	17: GCA.002722885.1.Bacteria.Proteobacteria to GCA.002480495.1.Bacteria.Proteobacteria	1610.765	0.0	805.3825
+los	436	GCA.002722885.1.Bacteria.Proteobacteria	NA	2217.14	0.0	1108.57
+spe	436	435	NA	2217.14	2071.245	2144.1925
+hgt origin	435	GCA.006969625.1.Bacteria.Proteobacteria	18: GCA.006969625.1.Bacteria.Proteobacteria to GCA.002796975.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+hgt	495	GCA.002796975.1.Bacteria.Proteobacteria	18: GCA.006969625.1.Bacteria.Proteobacteria to GCA.002796975.1.Bacteria.Proteobacteria	1736.875	0.0	868.4375
+hgt origin	435	GCA.006969625.1.Bacteria.Proteobacteria	19: GCA.006969625.1.Bacteria.Proteobacteria to GCF.900172325.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+hgt	492	GCF.900172325.1.Bacteria.Proteobacteria	19: GCA.006969625.1.Bacteria.Proteobacteria to GCF.900172325.1.Bacteria.Proteobacteria	1826.375	0.0	913.1875
+spe	435	434	NA	2071.245	1886.935	1979.09
+hgt origin	434	GCA.002238885.1.Bacteria.Proteobacteria	20: GCA.002238885.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1886.935	0.0	943.4675
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	20: GCA.002238885.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+los	434	GCA.002238885.1.Bacteria.Proteobacteria	NA	1886.935	0.0	943.4675
+hgt origin	514	513	21: 513 to GCA.002707655.1.Bacteria.SAR324	2299.515	2253.55	2276.5325
+hgt	400	GCA.002707655.1.Bacteria.SAR324	21: 513 to GCA.002707655.1.Bacteria.SAR324	2693.845	0.0	1346.9225
+hgt origin	514	513	22: 513 to dead	2299.515	2253.55	2276.5325
+hgt	None	dead	22: 513 to dead	0.0	0.0	0.0
+hgt origin	514	513	23: 513 to dead	2299.515	2253.55	2276.5325
+hgt	None	dead	23: 513 to dead	0.0	0.0	0.0
+hgt origin	None	dead	24: dead to GCA.006969625.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	435	GCA.006969625.1.Bacteria.Proteobacteria	24: dead to GCA.006969625.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	514	513	25: 513 to dead	2299.515	2253.55	2276.5325
+hgt	None	dead	25: 513 to dead	0.0	0.0	0.0
+hgt origin	514	513	26: 513 to dead	2299.515	2253.55	2276.5325
+hgt	None	dead	26: 513 to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	27: dead to GCA.002722885.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	436	GCA.002722885.1.Bacteria.Proteobacteria	27: dead to GCA.002722885.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	28: dead to GCA.002722885.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	436	GCA.002722885.1.Bacteria.Proteobacteria	28: dead to GCA.002722885.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	29: dead to GCA.002722885.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	436	GCA.002722885.1.Bacteria.Proteobacteria	29: dead to GCA.002722885.1.Bacteria.Proteobacteria	2217.14	0.0	1108.57
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	514	513	30: 513 to GCA.003220615.1.Bacteria.Methylomirabilota	2299.515	2253.55	2276.5325
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	30: 513 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	514	513	31: 513 to dead	2299.515	2253.55	2276.5325
+hgt	None	dead	31: 513 to dead	0.0	0.0	0.0
+hgt origin	None	dead	32: dead to GCA.002721365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	486	GCA.002721365.1.Bacteria.Proteobacteria	32: dead to GCA.002721365.1.Bacteria.Proteobacteria	1956.2	0.0	978.1
+los	None	dead	NA	0.0	0.0	0.0
+spe	514	513	NA	2299.515	2253.55	2276.5325
+hgt origin	513	512	33: 512 to dead	2253.55	2172.63	2213.09
+hgt	None	dead	33: 512 to dead	0.0	0.0	0.0
+hgt origin	None	dead	34: dead to GCA.002480495.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	506	GCA.002480495.1.Bacteria.Proteobacteria	34: dead to GCA.002480495.1.Bacteria.Proteobacteria	1610.765	0.0	805.3825
+los	None	dead	NA	0.0	0.0	0.0
+spe	513	512	NA	2253.55	2172.63	2213.09
+spe	512	486	NA	2172.63	1956.2	2064.415
+los	486	GCA.002721365.1.Bacteria.Proteobacteria	NA	1956.2	0.0	978.1
+spe	512	511	NA	2172.63	2112.01	2142.32
+spe	511	510	NA	2112.01	2056.505	2084.2575
+hgt origin	510	492	35: 492 to GCA.002898275.1.Bacteria.Proteobacteria	2056.505	1826.375	1941.44
+hgt	434	GCA.002898275.1.Bacteria.Proteobacteria	35: 492 to GCA.002898275.1.Bacteria.Proteobacteria	1886.935	0.0	943.4675
+spe	510	492	NA	2056.505	1826.375	1941.44
+spe	510	509	NA	2056.505	1977.465	2016.985
+hgt origin	509	508	36: 508 to 456	1977.465	1872.275	1924.87
+hgt	458	456	36: 508 to 456	2053.74	1898.57	1976.155
+spe	509	508	NA	1977.465	1872.275	1924.87
+los	508	507	NA	1872.275	1662.025	1767.15
+spe	508	498	NA	1872.275	1734.36	1803.3175
+los	498	GCF.000192575.1.Bacteria.Proteobacteria	NA	1734.36	0.0	867.18
+hgt origin	458	456	37: 456 to GCA.002717185.1.Bacteria.Proteobacteria	2053.74	1898.57	1976.155
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	37: 456 to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	458	456	38: 456 to 468	2053.74	1898.57	1976.155
+hgt	469	468	38: 456 to 468	2003.935	1847.82	1925.8775
+spe	458	456	NA	2053.74	1898.57	1976.155
+spe	456	455	NA	1898.57	1531.25	1714.91
+spe	455	454	NA	1531.25	1369.765	1450.5075
+spe	454	453	NA	1369.765	1231.6385	1300.70175
+los	453	GCA.002457765.1.Bacteria.Proteobacteria	NA	1231.6385	0.0	615.81925
+hgt origin	456	GCF.002148795.1.Bacteria.Proteobacteria	39: GCF.002148795.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1898.57	0.0	949.285
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	39: GCF.002148795.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+spe	469	468	NA	2003.935	1847.82	1925.8775
+spe	468	467	NA	1847.82	1693.575	1770.6975
+los	467	GCA.002291925.1.Bacteria.Proteobacteria	NA	1693.575	0.0	846.7875
+spe	509	495	NA	1977.465	1736.875	1857.17
+hgt origin	495	GCF.003173035.1.Bacteria.Proteobacteria	40: GCF.003173035.1.Bacteria.Proteobacteria to GCF.003258945.1.Bacteria.Proteobacteria	1736.875	0.0	868.4375
+hgt	467	GCF.003258945.1.Bacteria.Proteobacteria	40: GCF.003173035.1.Bacteria.Proteobacteria to GCF.003258945.1.Bacteria.Proteobacteria	1693.575	0.0	846.7875
+los	495	GCF.003173035.1.Bacteria.Proteobacteria	NA	1736.875	0.0	868.4375
+hgt origin	511	489	41: 489 to 446	2112.01	1797.555	1954.7825
+hgt	447	446	41: 489 to 446	2113.215	1951.09	2032.1525
+hgt origin	511	489	42: 489 to 468	2112.01	1797.555	1954.7825
+hgt	469	468	42: 489 to 468	2003.935	1847.82	1925.8775
+spe	511	489	NA	2112.01	1797.555	1954.7825
+hgt origin	489	GCA.002701885.1.Bacteria.Proteobacteria	43: GCA.002701885.1.Bacteria.Proteobacteria to GCF.003258945.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+hgt	467	GCF.003258945.1.Bacteria.Proteobacteria	43: GCA.002701885.1.Bacteria.Proteobacteria to GCF.003258945.1.Bacteria.Proteobacteria	1693.575	0.0	846.7875
+hgt origin	489	GCA.002701885.1.Bacteria.Proteobacteria	44: GCA.002701885.1.Bacteria.Proteobacteria to GCF.900102465.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+hgt	455	GCF.900102465.1.Bacteria.Proteobacteria	44: GCA.002701885.1.Bacteria.Proteobacteria to GCF.900102465.1.Bacteria.Proteobacteria	1531.25	0.0	765.625
+hgt origin	489	GCA.002701885.1.Bacteria.Proteobacteria	45: GCA.002701885.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	45: GCA.002701885.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+los	489	GCA.002701885.1.Bacteria.Proteobacteria	NA	1797.555	0.0	898.7775
+hgt origin	489	GCA.002348365.1.Bacteria.Proteobacteria	46: GCA.002348365.1.Bacteria.Proteobacteria to GCF.002798435.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+hgt	492	GCF.002798435.1.Bacteria.Proteobacteria	46: GCA.002348365.1.Bacteria.Proteobacteria to GCF.002798435.1.Bacteria.Proteobacteria	1826.375	0.0	913.1875
+hgt origin	469	468	47: 468 to dead	2003.935	1847.82	1925.8775
+hgt	None	dead	47: 468 to dead	0.0	0.0	0.0
+hgt origin	469	468	48: 468 to dead	2003.935	1847.82	1925.8775
+hgt	None	dead	48: 468 to dead	0.0	0.0	0.0
+hgt origin	None	dead	49: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	49: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	469	468	50: 468 to dead	2003.935	1847.82	1925.8775
+hgt	None	dead	50: 468 to dead	0.0	0.0	0.0
+hgt origin	None	dead	51: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	51: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+spe	469	468	NA	2003.935	1847.82	1925.8775
+spe	468	467	NA	1847.82	1693.575	1770.6975
+los	467	GCA.002291925.1.Bacteria.Proteobacteria	NA	1693.575	0.0	846.7875
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	52: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	52: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	53: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	53: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+spe	447	446	NA	2113.215	1951.09	2032.1525
+spe	446	445	NA	1951.09	1836.495	1893.7925
+spe	445	444	NA	1836.495	1669.2	1752.8475
+hgt origin	444	GCA.002686135.1.Bacteria.Proteobacteria	54: GCA.002686135.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1669.2	0.0	834.6
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	54: GCA.002686135.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+los	444	GCA.002686135.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	55: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	55: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	56: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	56: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+dup	446	GCA.002717185.1.Bacteria.Proteobacteria	NA	1951.09	0.0	975.545
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	57: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1951.09	0.0	975.545
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	57: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	58: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	58: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+dup	741	GCA.003220615.1.Bacteria.Methylomirabilota	NA	2582.55	0.0	1291.275
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	59: GCA.002717185.1.Bacteria.Proteobacteria to dead	1951.09	0.0	975.545
+hgt	None	dead	59: GCA.002717185.1.Bacteria.Proteobacteria to dead	0.0	0.0	0.0
+hgt origin	None	dead	60: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	60: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	61: GCA.002717185.1.Bacteria.Proteobacteria to 456	1951.09	0.0	975.545
+hgt	458	456	61: GCA.002717185.1.Bacteria.Proteobacteria to 456	2053.74	1898.57	1976.155
+hgt origin	458	456	62: 456 to 468	2053.74	1898.57	1976.155
+hgt	469	468	62: 456 to 468	2003.935	1847.82	1925.8775
+hgt origin	458	456	63: 456 to dead	2053.74	1898.57	1976.155
+hgt	None	dead	63: 456 to dead	0.0	0.0	0.0
+hgt origin	None	dead	64: dead to GCF.900167455.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	64: dead to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	458	456	65: 456 to GCA.006969625.1.Bacteria.Proteobacteria	2053.74	1898.57	1976.155
+hgt	435	GCA.006969625.1.Bacteria.Proteobacteria	65: 456 to GCA.006969625.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+spe	458	456	NA	2053.74	1898.57	1976.155
+spe	456	455	NA	1898.57	1531.25	1714.91
+los	455	454	NA	1531.25	1369.765	1450.5075
+hgt origin	469	468	66: 468 to dead	2003.935	1847.82	1925.8775
+hgt	None	dead	66: 468 to dead	0.0	0.0	0.0
+hgt origin	None	dead	67: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	67: dead to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+los	None	dead	NA	0.0	0.0	0.0
+spe	469	468	NA	2003.935	1847.82	1925.8775
+spe	468	467	NA	1847.82	1693.575	1770.6975
+los	467	GCA.002291925.1.Bacteria.Proteobacteria	NA	1693.575	0.0	846.7875
+spe	513	483	NA	2253.55	2221.01	2237.28
+hgt origin	483	482	68: 482 to dead	2221.01	2151.75	2186.38
+hgt	None	dead	68: 482 to dead	0.0	0.0	0.0
+hgt origin	None	dead	69: dead to GCA.002721365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	486	GCA.002721365.1.Bacteria.Proteobacteria	69: dead to GCA.002721365.1.Bacteria.Proteobacteria	1956.2	0.0	978.1
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	483	482	70: 482 to 436	2221.01	2151.75	2186.38
+hgt	514	436	70: 482 to 436	2299.515	2217.14	2258.3275
+spe	483	482	NA	2221.01	2151.75	2186.38
+spe	482	458	NA	2151.75	2053.74	2102.745
+hgt origin	458	GCA.002340345.1.Bacteria.Proteobacteria	71: GCA.002340345.1.Bacteria.Proteobacteria to GCA.001464215.1.Bacteria.Proteobacteria	2053.74	0.0	1026.87
+hgt	506	GCA.001464215.1.Bacteria.Proteobacteria	71: GCA.002340345.1.Bacteria.Proteobacteria to GCA.001464215.1.Bacteria.Proteobacteria	1610.765	0.0	805.3825
+los	458	GCA.002340345.1.Bacteria.Proteobacteria	NA	2053.74	0.0	1026.87
+spe	458	456	NA	2053.74	1898.57	1976.155
+spe	456	455	NA	1898.57	1531.25	1714.91
+hgt origin	455	454	72: 454 to GCF.900167455.1.Bacteria.Proteobacteria	1531.25	1369.765	1450.5075
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	72: 454 to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+hgt origin	455	454	73: 454 to GCF.002798435.1.Bacteria.Proteobacteria	1531.25	1369.765	1450.5075
+hgt	492	GCF.002798435.1.Bacteria.Proteobacteria	73: 454 to GCF.002798435.1.Bacteria.Proteobacteria	1826.375	0.0	913.1875
+hgt origin	455	454	74: 454 to GCF.900102465.1.Bacteria.Proteobacteria	1531.25	1369.765	1450.5075
+hgt	455	GCF.900102465.1.Bacteria.Proteobacteria	74: 454 to GCF.900102465.1.Bacteria.Proteobacteria	1531.25	0.0	765.625
+los	455	454	NA	1531.25	1369.765	1450.5075
+spe	482	481	NA	2151.75	2091.815	2121.7825
+hgt origin	481	480	75: 480 to GCA.002712165.1.Bacteria.Proteobacteria	2091.815	1990.065	2040.94
+hgt	944	GCA.002712165.1.Bacteria.Proteobacteria	75: 480 to GCA.002712165.1.Bacteria.Proteobacteria	2081.795	0.0	1040.8975
+los	481	480	NA	2091.815	1990.065	2040.94
+spe	481	469	NA	2091.815	2003.935	2047.875
+los	469	468	NA	2003.935	1847.82	1925.8775
+spe	469	463	NA	2003.935	1889.86	1946.8975
+los	463	GCF.002251795.1.Bacteria.Proteobacteria	NA	1889.86	0.0	944.93
+spe	463	462	NA	1889.86	1641.635	1765.7475
+spe	514	436	NA	2299.515	2217.14	2258.3275
+spe	436	435	NA	2217.14	2071.245	2144.1925
+spe	435	434	NA	2071.245	1886.935	1979.09
+los	434	GCA.002238885.1.Bacteria.Proteobacteria	NA	1886.935	0.0	943.4675
+hgt origin	435	GCA.006969625.1.Bacteria.Proteobacteria	76: GCA.006969625.1.Bacteria.Proteobacteria to GCF.002251795.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+hgt	463	GCF.002251795.1.Bacteria.Proteobacteria	76: GCA.006969625.1.Bacteria.Proteobacteria to GCF.002251795.1.Bacteria.Proteobacteria	1889.86	0.0	944.93
+hgt origin	483	447	77: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	77: 447 to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	78: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	78: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	79: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	79: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	483	447	80: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	80: 447 to dead	0.0	0.0	0.0
+hgt origin	None	dead	81: dead to GCA.002721365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	486	GCA.002721365.1.Bacteria.Proteobacteria	81: dead to GCA.002721365.1.Bacteria.Proteobacteria	1956.2	0.0	978.1
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	483	447	82: 447 to GCA.003220615.1.Bacteria.Methylomirabilota	2221.01	2113.215	2167.1125
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	82: 447 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	483	447	83: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	83: 447 to dead	0.0	0.0	0.0
+hgt origin	483	447	84: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	84: 447 to dead	0.0	0.0	0.0
+hgt origin	None	dead	85: dead to GCA.002723345.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	439	GCA.002723345.1.Bacteria.Proteobacteria	85: dead to GCA.002723345.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+los	None	dead	NA	0.0	0.0	0.0
+dup	483	447	NA	2221.01	2113.215	2167.1125
+hgt origin	483	447	86: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	86: 447 to dead	0.0	0.0	0.0
+hgt origin	None	dead	87: dead to GCA.002348425.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	87: dead to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	483	447	88: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	88: 447 to dead	0.0	0.0	0.0
+hgt origin	None	dead	89: dead to GCA.002348425.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	89: dead to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+los	None	dead	NA	0.0	0.0	0.0
+spe	483	447	NA	2221.01	2113.215	2167.1125
+spe	447	439	NA	2113.215	1983.035	2048.125
+los	439	GCF.001613805.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+spe	447	446	NA	2113.215	1951.09	2032.1525
+spe	446	445	NA	1951.09	1836.495	1893.7925
+los	445	GCA.002717225.1.Bacteria.Proteobacteria	NA	1836.495	0.0	918.2475
+spe	445	444	NA	1836.495	1669.2	1752.8475
+los	444	GCA.002686135.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+spe	483	447	NA	2221.01	2113.215	2167.1125
+spe	447	446	NA	2113.215	1951.09	2032.1525
+spe	446	445	NA	1951.09	1836.495	1893.7925
+spe	445	444	NA	1836.495	1669.2	1752.8475
+hgt origin	444	GCA.002686135.1.Bacteria.Proteobacteria	90: GCA.002686135.1.Bacteria.Proteobacteria to GCA.002348365.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	90: GCA.002686135.1.Bacteria.Proteobacteria to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	444	GCA.002686135.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+spe	447	439	NA	2113.215	1983.035	2048.125
+hgt origin	439	GCF.001613805.1.Bacteria.Proteobacteria	91: GCF.001613805.1.Bacteria.Proteobacteria to GCA.002723345.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+hgt	439	GCA.002723345.1.Bacteria.Proteobacteria	91: GCF.001613805.1.Bacteria.Proteobacteria to GCA.002723345.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+los	439	GCF.001613805.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+dup	439	GCA.002723345.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+hgt origin	439	GCA.002723345.1.Bacteria.Proteobacteria	92: GCA.002723345.1.Bacteria.Proteobacteria to GCA.002348425.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	92: GCA.002723345.1.Bacteria.Proteobacteria to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+dup	439	GCA.002723345.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+hgt origin	439	GCA.002723345.1.Bacteria.Proteobacteria	93: GCA.002723345.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	93: GCA.002723345.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+hgt origin	439	GCA.002723345.1.Bacteria.Proteobacteria	94: GCA.002723345.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1983.035	0.0	991.5175
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	94: GCA.002723345.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+dup	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	95: dead to GCA.002348425.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	95: dead to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	96: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	96: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	97: dead to GCA.002723345.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	439	GCA.002723345.1.Bacteria.Proteobacteria	97: dead to GCA.002723345.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	98: dead to GCA.002348425.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	98: dead to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	99: dead to GCA.002717185.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	99: dead to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	100: dead to 486	0.0	0.0	0.0
+hgt	512	486	100: dead to 486	2172.63	1956.2	2064.415
+los	None	dead	NA	0.0	0.0	0.0
+spe	512	486	NA	2172.63	1956.2	2064.415
+hgt origin	486	GCA.002721365.1.Bacteria.Proteobacteria	101: GCA.002721365.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1956.2	0.0	978.1
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	101: GCA.002721365.1.Bacteria.Proteobacteria to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	102: dead to GCF.000315795.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	462	GCF.000315795.1.Bacteria.Proteobacteria	102: dead to GCF.000315795.1.Bacteria.Proteobacteria	1641.635	0.0	820.8175
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	103: dead to GCF.000264455.2.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	486	GCF.000264455.2.Bacteria.Proteobacteria	103: dead to GCF.000264455.2.Bacteria.Proteobacteria	1956.2	0.0	978.1
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	400	GCA.002707655.1.Bacteria.SAR324	104: GCA.002707655.1.Bacteria.SAR324 to 456	2693.845	0.0	1346.9225
+hgt	458	456	104: GCA.002707655.1.Bacteria.SAR324 to 456	2053.74	1898.57	1976.155
+hgt origin	458	456	105: 456 to dead	2053.74	1898.57	1976.155
+hgt	None	dead	105: 456 to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	106: dead to GCA.002238885.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	434	GCA.002238885.1.Bacteria.Proteobacteria	106: dead to GCA.002238885.1.Bacteria.Proteobacteria	1886.935	0.0	943.4675
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	107: dead to GCF.003258945.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	467	GCF.003258945.1.Bacteria.Proteobacteria	107: dead to GCF.003258945.1.Bacteria.Proteobacteria	1693.575	0.0	846.7875
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	108: dead to GCF.002798435.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	492	GCF.002798435.1.Bacteria.Proteobacteria	108: dead to GCF.002798435.1.Bacteria.Proteobacteria	1826.375	0.0	913.1875
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	458	456	109: 456 to GCF.000374645.1.Bacteria.Proteobacteria	2053.74	1898.57	1976.155
+hgt	574	GCF.000374645.1.Bacteria.Proteobacteria	109: 456 to GCF.000374645.1.Bacteria.Proteobacteria	1962.545	0.0	981.2725
+spe	458	456	NA	2053.74	1898.57	1976.155
+spe	456	455	NA	1898.57	1531.25	1714.91
+los	455	454	NA	1531.25	1369.765	1450.5075
+hgt origin	574	GCF.000374645.1.Bacteria.Proteobacteria	110: GCF.000374645.1.Bacteria.Proteobacteria to GCF.001614315.2.Bacteria.Proteobacteria	1962.545	0.0	981.2725
+hgt	552	GCF.001614315.2.Bacteria.Proteobacteria	110: GCF.000374645.1.Bacteria.Proteobacteria to GCF.001614315.2.Bacteria.Proteobacteria	1988.77	0.0	994.385
+hgt origin	1128	GCA.002898935.1.Bacteria.CSP1.3	111: GCA.002898935.1.Bacteria.CSP1.3 to 1337	3141.47	0.0	1570.735
+hgt	1338	1337	111: GCA.002898935.1.Bacteria.CSP1.3 to 1337	2111.765	1832.425	1972.095
+hgt origin	1338	1337	112: 1337 to GCA.002710215.1.Bacteria.Chloroflexota	2111.765	1832.425	1972.095
+hgt	1406	GCA.002710215.1.Bacteria.Chloroflexota	112: 1337 to GCA.002710215.1.Bacteria.Chloroflexota	2276.4	0.0	1138.2
+hgt origin	1338	1337	113: 1337 to GCA.003023725.1.Bacteria.Firmicutes.E	2111.765	1832.425	1972.095
+hgt	1228	GCA.003023725.1.Bacteria.Firmicutes.E	113: 1337 to GCA.003023725.1.Bacteria.Firmicutes.E	2573.425	0.0	1286.7125
+spe	1338	1337	NA	2111.765	1832.425	1972.095
+hgt origin	1337	GCF.001399675.1.Bacteria.Firmicutes	114: GCF.001399675.1.Bacteria.Firmicutes to 1355	1832.425	0.0	916.2125
+hgt	1379	1355	114: GCF.001399675.1.Bacteria.Firmicutes to 1355	2060.89	1845.21	1953.05
+spe	1379	1355	NA	2060.89	1845.21	1953.05
+hgt origin	1396	GCA.003151665.1.Bacteria.Dormibacterota	115: GCA.003151665.1.Bacteria.Dormibacterota to 1158	2525.675	0.0	1262.8375
+hgt	1160	1158	115: GCA.003151665.1.Bacteria.Dormibacterota to 1158	1520.98	1386.605	1453.7925
+hgt origin	1396	GCA.003151665.1.Bacteria.Dormibacterota	116: GCA.003151665.1.Bacteria.Dormibacterota to GCA.003019535.1.Archaea.Thermoproteota	2525.675	0.0	1262.8375
+hgt	107	GCA.003019535.1.Archaea.Thermoproteota	116: GCA.003151665.1.Bacteria.Dormibacterota to GCA.003019535.1.Archaea.Thermoproteota	2229.765	0.0	1114.8825
+hgt origin	1396	GCA.003151665.1.Bacteria.Dormibacterota	117: GCA.003151665.1.Bacteria.Dormibacterota to GCA.003242195.1.Bacteria.Firmicutes.E	2525.675	0.0	1262.8375
+hgt	1226	GCA.003242195.1.Bacteria.Firmicutes.E	117: GCA.003151665.1.Bacteria.Dormibacterota to GCA.003242195.1.Bacteria.Firmicutes.E	2297.705	0.0	1148.8525
+hgt origin	107	GCA.003019535.1.Archaea.Thermoproteota	118: GCA.003019535.1.Archaea.Thermoproteota to GCF.000011205.1.Archaea.Thermoproteota	2229.765	0.0	1114.8825
+hgt	101	GCF.000011205.1.Archaea.Thermoproteota	118: GCA.003019535.1.Archaea.Thermoproteota to GCF.000011205.1.Archaea.Thermoproteota	2213.35	0.0	1106.675
+spe	1160	1158	NA	1520.98	1386.605	1453.7925
+hgt origin	1158	GCF.001942305.1.Bacteria.Actinobacteriota	119: GCF.001942305.1.Bacteria.Actinobacteriota to GCF.001029505.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt	1180	GCF.001029505.1.Bacteria.Actinobacteriota	119: GCF.001942305.1.Bacteria.Actinobacteriota to GCF.001029505.1.Bacteria.Actinobacteriota	2587.79	0.0	1293.895
+dup	1180	GCF.001029505.1.Bacteria.Actinobacteriota	NA	2587.79	0.0	1293.895
+hgt origin	1158	GCF.900106035.1.Bacteria.Actinobacteriota	120: GCF.900106035.1.Bacteria.Actinobacteriota to GCF.000969705.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt	1148	GCF.000969705.1.Bacteria.Actinobacteriota	120: GCF.900106035.1.Bacteria.Actinobacteriota to GCF.000969705.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+hgt origin	1158	GCF.900106035.1.Bacteria.Actinobacteriota	121: GCF.900106035.1.Bacteria.Actinobacteriota to GCF.000384115.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt	1163	GCF.000384115.1.Bacteria.Actinobacteriota	121: GCF.900106035.1.Bacteria.Actinobacteriota to GCF.000384115.1.Bacteria.Actinobacteriota	1488.035	0.0	744.0175
+hgt origin	1158	GCF.900106035.1.Bacteria.Actinobacteriota	122: GCF.900106035.1.Bacteria.Actinobacteriota to 1154	1386.605	0.0	693.3025
+hgt	1155	1154	122: GCF.900106035.1.Bacteria.Actinobacteriota to 1154	1711.135	1356.86	1533.9975
+spe	1155	1154	NA	1711.135	1356.86	1533.9975
+hgt origin	1148	GCF.000969705.1.Bacteria.Actinobacteriota	123: GCF.000969705.1.Bacteria.Actinobacteriota to GCF.004348535.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+hgt	1166	GCF.004348535.1.Bacteria.Actinobacteriota	123: GCF.000969705.1.Bacteria.Actinobacteriota to GCF.004348535.1.Bacteria.Actinobacteriota	1991.825	0.0	995.9125
+hgt origin	1469	GCA.001898225.1.Bacteria.Chloroflexota	124: GCA.001898225.1.Bacteria.Chloroflexota to GCA.002238965.1.Bacteria.UBA8248	2472.76	0.0	1236.38
+hgt	746	GCA.002238965.1.Bacteria.UBA8248	124: GCA.001898225.1.Bacteria.Chloroflexota to GCA.002238965.1.Bacteria.UBA8248	2548.44	0.0	1274.22
+hgt origin	746	GCA.002238965.1.Bacteria.UBA8248	125: GCA.002238965.1.Bacteria.UBA8248 to GCA.002712885.1.Bacteria.Acidobacteriota	2548.44	0.0	1274.22
+hgt	681	GCA.002712885.1.Bacteria.Acidobacteriota	125: GCA.002238965.1.Bacteria.UBA8248 to GCA.002712885.1.Bacteria.Acidobacteriota	2463.525	0.0	1231.7625
+hgt origin	746	GCA.002238965.1.Bacteria.UBA8248	126: GCA.002238965.1.Bacteria.UBA8248 to GCA.002898575.1.Bacteria.Armatimonadota	2548.44	0.0	1274.22
+hgt	1116	GCA.002898575.1.Bacteria.Armatimonadota	126: GCA.002238965.1.Bacteria.UBA8248 to GCA.002898575.1.Bacteria.Armatimonadota	2746.26	0.0	1373.13
+hgt origin	746	GCA.002238965.1.Bacteria.UBA8248	127: GCA.002238965.1.Bacteria.UBA8248 to GCA.002483445.1.Bacteria.Acidobacteriota	2548.44	0.0	1274.22
+hgt	684	GCA.002483445.1.Bacteria.Acidobacteriota	127: GCA.002238965.1.Bacteria.UBA8248 to GCA.002483445.1.Bacteria.Acidobacteriota	1980.48	0.0	990.24
+hgt origin	746	GCA.002238965.1.Bacteria.UBA8248	128: GCA.002238965.1.Bacteria.UBA8248 to GCA.002683135.1.Bacteria.Planctomycetota	2548.44	0.0	1274.22
+hgt	347	GCA.002683135.1.Bacteria.Planctomycetota	128: GCA.002238965.1.Bacteria.UBA8248 to GCA.002683135.1.Bacteria.Planctomycetota	2546.45	0.0	1273.225
+hgt origin	1116	GCA.002898575.1.Bacteria.Armatimonadota	129: GCA.002898575.1.Bacteria.Armatimonadota to GCA.003152325.1.Bacteria.Acidobacteriota	2746.26	0.0	1373.13
+hgt	692	GCA.003152325.1.Bacteria.Acidobacteriota	129: GCA.002898575.1.Bacteria.Armatimonadota to GCA.003152325.1.Bacteria.Acidobacteriota	1806.3	0.0	903.15
+hgt origin	681	GCA.002712885.1.Bacteria.Acidobacteriota	130: GCA.002712885.1.Bacteria.Acidobacteriota to GCA.003222815.1.Bacteria.Acidobacteriota	2463.525	0.0	1231.7625
+hgt	697	GCA.003222815.1.Bacteria.Acidobacteriota	130: GCA.002712885.1.Bacteria.Acidobacteriota to GCA.003222815.1.Bacteria.Acidobacteriota	2258.95	0.0	1129.475
+hgt origin	681	GCA.002712885.1.Bacteria.Acidobacteriota	131: GCA.002712885.1.Bacteria.Acidobacteriota to GCF.003967555.1.Bacteria.Chloroflexota	2463.525	0.0	1231.7625
+hgt	1457	GCF.003967555.1.Bacteria.Chloroflexota	131: GCA.002712885.1.Bacteria.Acidobacteriota to GCF.003967555.1.Bacteria.Chloroflexota	2476.295	0.0	1238.1475
+hgt origin	1467	GCA.002440805.1.Bacteria.Chloroflexota	132: GCA.002440805.1.Bacteria.Chloroflexota to 1143	2363.295	0.0	1181.6475
+hgt	1145	1143	132: GCA.002440805.1.Bacteria.Chloroflexota to 1143	2458.975	2319.725	2389.35
+hgt origin	1467	GCA.002440805.1.Bacteria.Chloroflexota	133: GCA.002440805.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2363.295	0.0	1181.6475
+hgt	1469	GCA.001898225.1.Bacteria.Chloroflexota	133: GCA.002440805.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2472.76	0.0	1236.38
+hgt origin	1469	GCA.001898225.1.Bacteria.Chloroflexota	134: GCA.001898225.1.Bacteria.Chloroflexota to GCA.003220615.1.Bacteria.Methylomirabilota	2472.76	0.0	1236.38
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	134: GCA.001898225.1.Bacteria.Chloroflexota to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	741	GCA.003220615.1.Bacteria.Methylomirabilota	135: GCA.003220615.1.Bacteria.Methylomirabilota to GCF.000025005.1.Bacteria.Chloroflexota	2582.55	0.0	1291.275
+hgt	1470	GCF.000025005.1.Bacteria.Chloroflexota	135: GCA.003220615.1.Bacteria.Methylomirabilota to GCF.000025005.1.Bacteria.Chloroflexota	2595.865	0.0	1297.9325
+hgt origin	1145	1143	136: 1143 to GCA.002898935.1.Bacteria.CSP1.3	2458.975	2319.725	2389.35
+hgt	1128	GCA.002898935.1.Bacteria.CSP1.3	136: 1143 to GCA.002898935.1.Bacteria.CSP1.3	3141.47	0.0	1570.735
+hgt origin	1145	1143	137: 1143 to GCA.002238705.1.Bacteria.Acidobacteriota	2458.975	2319.725	2389.35
+hgt	680	GCA.002238705.1.Bacteria.Acidobacteriota	137: 1143 to GCA.002238705.1.Bacteria.Acidobacteriota	2328.61	0.0	1164.305
+spe	1145	1143	NA	2458.975	2319.725	2389.35
+hgt origin	1143	GCA.002352645.1.Bacteria.Actinobacteriota	138: GCA.002352645.1.Bacteria.Actinobacteriota to GCA.002686135.1.Bacteria.Proteobacteria	2319.725	0.0	1159.8625
+hgt	444	GCA.002686135.1.Bacteria.Proteobacteria	138: GCA.002352645.1.Bacteria.Actinobacteriota to GCA.002686135.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt origin	444	GCA.002686135.1.Bacteria.Proteobacteria	139: GCA.002686135.1.Bacteria.Proteobacteria to GCA.002722565.1.Bacteria.Actinobacteriota	1669.2	0.0	834.6
+hgt	1140	GCA.002722565.1.Bacteria.Actinobacteriota	139: GCA.002686135.1.Bacteria.Proteobacteria to GCA.002722565.1.Bacteria.Actinobacteriota	1795.075	0.0	897.5375
+hgt origin	1143	1141	140: 1141 to GCA.003151665.1.Bacteria.Dormibacterota	2319.725	2008.575	2164.15
+hgt	1396	GCA.003151665.1.Bacteria.Dormibacterota	140: 1141 to GCA.003151665.1.Bacteria.Dormibacterota	2525.675	0.0	1262.8375
+spe	1143	1141	NA	2319.725	2008.575	2164.15
+spe	1141	1140	NA	2008.575	1795.075	1901.825
+los	1140	GCA.003162395.1.Bacteria.Actinobacteriota	NA	1795.075	0.0	897.5375
+hgt origin	1128	GCA.002898935.1.Bacteria.CSP1.3	141: GCA.002898935.1.Bacteria.CSP1.3 to GCF.000266945.1.Bacteria.Desulfobacterota	3141.47	0.0	1570.735
+hgt	849	GCF.000266945.1.Bacteria.Desulfobacterota	141: GCA.002898935.1.Bacteria.CSP1.3 to GCF.000266945.1.Bacteria.Desulfobacterota	2490.935	0.0	1245.4675
+hgt origin	1128	GCA.002898935.1.Bacteria.CSP1.3	142: GCA.002898935.1.Bacteria.CSP1.3 to GCA.003220615.1.Bacteria.Methylomirabilota	3141.47	0.0	1570.735
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	142: GCA.002898935.1.Bacteria.CSP1.3 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	1128	GCA.002898935.1.Bacteria.CSP1.3	143: GCA.002898935.1.Bacteria.CSP1.3 to GCA.003220615.1.Bacteria.Methylomirabilota	3141.47	0.0	1570.735
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	143: GCA.002898935.1.Bacteria.CSP1.3 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+dup	741	GCA.003220615.1.Bacteria.Methylomirabilota	NA	2582.55	0.0	1291.275
+hgt origin	849	GCF.000266945.1.Bacteria.Desulfobacterota	144: GCF.000266945.1.Bacteria.Desulfobacterota to GCF.000969705.1.Bacteria.Actinobacteriota	2490.935	0.0	1245.4675
+hgt	1148	GCF.000969705.1.Bacteria.Actinobacteriota	144: GCF.000266945.1.Bacteria.Desulfobacterota to GCF.000969705.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+hgt origin	849	GCF.000266945.1.Bacteria.Desulfobacterota	145: GCF.000266945.1.Bacteria.Desulfobacterota to GCF.900167455.1.Bacteria.Proteobacteria	2490.935	0.0	1245.4675
+hgt	468	GCF.900167455.1.Bacteria.Proteobacteria	145: GCF.000266945.1.Bacteria.Desulfobacterota to GCF.900167455.1.Bacteria.Proteobacteria	1847.82	0.0	923.91
+spe	1462	1461	NA	2688.275	2433.39	2560.8325
+hgt origin	1461	GCA.002413265.1.Bacteria.Chloroflexota	146: GCA.002413265.1.Bacteria.Chloroflexota to GCA.001750625.1.Bacteria.Proteobacteria	2433.39	0.0	1216.695
+hgt	532	GCA.001750625.1.Bacteria.Proteobacteria	146: GCA.002413265.1.Bacteria.Chloroflexota to GCA.001750625.1.Bacteria.Proteobacteria	2186.645	0.0	1093.3225
+hgt origin	1461	GCA.002413265.1.Bacteria.Chloroflexota	147: GCA.002413265.1.Bacteria.Chloroflexota to GCF.000969705.1.Bacteria.Actinobacteriota	2433.39	0.0	1216.695
+hgt	1148	GCF.000969705.1.Bacteria.Actinobacteriota	147: GCA.002413265.1.Bacteria.Chloroflexota to GCF.000969705.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+hgt origin	1461	GCA.002413265.1.Bacteria.Chloroflexota	148: GCA.002413265.1.Bacteria.Chloroflexota to GCA.003151665.1.Bacteria.Dormibacterota	2433.39	0.0	1216.695
+hgt	1396	GCA.003151665.1.Bacteria.Dormibacterota	148: GCA.002413265.1.Bacteria.Chloroflexota to GCA.003151665.1.Bacteria.Dormibacterota	2525.675	0.0	1262.8375
+hgt origin	532	GCA.001750625.1.Bacteria.Proteobacteria	149: GCA.001750625.1.Bacteria.Proteobacteria to GCF.900106035.1.Bacteria.Actinobacteriota	2186.645	0.0	1093.3225
+hgt	1158	GCF.900106035.1.Bacteria.Actinobacteriota	149: GCA.001750625.1.Bacteria.Proteobacteria to GCF.900106035.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt origin	532	GCA.001750625.1.Bacteria.Proteobacteria	150: GCA.001750625.1.Bacteria.Proteobacteria to GCF.001614315.2.Bacteria.Proteobacteria	2186.645	0.0	1093.3225
+hgt	552	GCF.001614315.2.Bacteria.Proteobacteria	150: GCA.001750625.1.Bacteria.Proteobacteria to GCF.001614315.2.Bacteria.Proteobacteria	1988.77	0.0	994.385
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	151: GCA.002347925.1.Bacteria.Chloroflexota to GCA.003023725.1.Bacteria.Firmicutes.E	2433.39	0.0	1216.695
+hgt	1228	GCA.003023725.1.Bacteria.Firmicutes.E	151: GCA.002347925.1.Bacteria.Chloroflexota to GCA.003023725.1.Bacteria.Firmicutes.E	2573.425	0.0	1286.7125
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	152: GCA.002347925.1.Bacteria.Chloroflexota to GCA.003019535.1.Archaea.Thermoproteota	2433.39	0.0	1216.695
+hgt	107	GCA.003019535.1.Archaea.Thermoproteota	152: GCA.002347925.1.Bacteria.Chloroflexota to GCA.003019535.1.Archaea.Thermoproteota	2229.765	0.0	1114.8825
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	153: GCA.002347925.1.Bacteria.Chloroflexota to GCA.001443375.1.Bacteria.Chloroflexota	2433.39	0.0	1216.695
+hgt	1473	GCA.001443375.1.Bacteria.Chloroflexota	153: GCA.002347925.1.Bacteria.Chloroflexota to GCA.001443375.1.Bacteria.Chloroflexota	2043.005	0.0	1021.5025
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	154: GCA.002347925.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2433.39	0.0	1216.695
+hgt	1469	GCA.001898225.1.Bacteria.Chloroflexota	154: GCA.002347925.1.Bacteria.Chloroflexota to GCA.001898225.1.Bacteria.Chloroflexota	2472.76	0.0	1236.38
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	155: GCA.002347925.1.Bacteria.Chloroflexota to GCA.002707655.1.Bacteria.SAR324	2433.39	0.0	1216.695
+hgt	400	GCA.002707655.1.Bacteria.SAR324	155: GCA.002347925.1.Bacteria.Chloroflexota to GCA.002707655.1.Bacteria.SAR324	2693.845	0.0	1346.9225
+hgt origin	1461	GCA.002347925.1.Bacteria.Chloroflexota	156: GCA.002347925.1.Bacteria.Chloroflexota to GCA.002483445.1.Bacteria.Acidobacteriota	2433.39	0.0	1216.695
+hgt	684	GCA.002483445.1.Bacteria.Acidobacteriota	156: GCA.002347925.1.Bacteria.Chloroflexota to GCA.002483445.1.Bacteria.Acidobacteriota	1980.48	0.0	990.24
+hgt origin	684	GCA.002483445.1.Bacteria.Acidobacteriota	157: GCA.002483445.1.Bacteria.Acidobacteriota to GCA.003220615.1.Bacteria.Methylomirabilota	1980.48	0.0	990.24
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	157: GCA.002483445.1.Bacteria.Acidobacteriota to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	1228	GCA.003023725.1.Bacteria.Firmicutes.E	158: GCA.003023725.1.Bacteria.Firmicutes.E to GCA.003242195.1.Bacteria.Firmicutes.E	2573.425	0.0	1286.7125
+hgt	1226	GCA.003242195.1.Bacteria.Firmicutes.E	158: GCA.003023725.1.Bacteria.Firmicutes.E to GCA.003242195.1.Bacteria.Firmicutes.E	2297.705	0.0	1148.8525
+hgt origin	1228	GCA.003023725.1.Bacteria.Firmicutes.E	159: GCA.003023725.1.Bacteria.Firmicutes.E to GCF.001653195.1.Bacteria.Firmicutes	2573.425	0.0	1286.7125
+hgt	1341	GCF.001653195.1.Bacteria.Firmicutes	159: GCA.003023725.1.Bacteria.Firmicutes.E to GCF.001653195.1.Bacteria.Firmicutes	2078.19	0.0	1039.095
+hgt origin	1226	GCA.003242195.1.Bacteria.Firmicutes.E	160: GCA.003242195.1.Bacteria.Firmicutes.E to GCF.900187885.1.Bacteria.Chloroflexota	2297.705	0.0	1148.8525
+hgt	1439	GCF.900187885.1.Bacteria.Chloroflexota	160: GCA.003242195.1.Bacteria.Firmicutes.E to GCF.900187885.1.Bacteria.Chloroflexota	2159.315	0.0	1079.6575
+hgt origin	746	GCF.900079095.1.Bacteria.Tectomicrobia	161: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.003228115.1.Bacteria.Chloroflexota	2548.44	0.0	1274.22
+hgt	1402	GCA.003228115.1.Bacteria.Chloroflexota	161: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.003228115.1.Bacteria.Chloroflexota	2331.705	0.0	1165.8525
+hgt origin	746	GCF.900079095.1.Bacteria.Tectomicrobia	162: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.003228115.1.Bacteria.Chloroflexota	2548.44	0.0	1274.22
+hgt	1402	GCA.003228115.1.Bacteria.Chloroflexota	162: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.003228115.1.Bacteria.Chloroflexota	2331.705	0.0	1165.8525
+dup	746	GCF.900079095.1.Bacteria.Tectomicrobia	NA	2548.44	0.0	1274.22
+hgt origin	746	GCF.900079095.1.Bacteria.Tectomicrobia	163: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.002710215.1.Bacteria.Chloroflexota	2548.44	0.0	1274.22
+hgt	1406	GCA.002710215.1.Bacteria.Chloroflexota	163: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.002710215.1.Bacteria.Chloroflexota	2276.4	0.0	1138.2
+dup	1406	GCA.002710215.1.Bacteria.Chloroflexota	NA	2276.4	0.0	1138.2
+dup	1406	GCA.002710215.1.Bacteria.Chloroflexota	NA	2276.4	0.0	1138.2
+spe	797	796	NA	2488.59	2368.175	2428.3825
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	164: GCA.002238415.1.Bacteria.Desulfobacterota.B to dead	2368.175	0.0	1184.0875
+hgt	None	dead	164: GCA.002238415.1.Bacteria.Desulfobacterota.B to dead	0.0	0.0	0.0
+hgt origin	None	dead	165: dead to GCF.900099895.1.Bacteria.Firmicutes	0.0	0.0	0.0
+hgt	1347	GCF.900099895.1.Bacteria.Firmicutes	165: dead to GCF.900099895.1.Bacteria.Firmicutes	1852.54	0.0	926.27
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	166: GCA.002238415.1.Bacteria.Desulfobacterota.B to dead	2368.175	0.0	1184.0875
+hgt	None	dead	166: GCA.002238415.1.Bacteria.Desulfobacterota.B to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	167: dead to 1337	0.0	0.0	0.0
+hgt	1338	1337	167: dead to 1337	2111.765	1832.425	1972.095
+los	None	dead	NA	0.0	0.0	0.0
+spe	1338	1337	NA	2111.765	1832.425	1972.095
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	168: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	168: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	169: dead to GCA.002348365.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	169: dead to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+los	None	dead	NA	0.0	0.0	0.0
+dup	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	NA	2368.175	0.0	1184.0875
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	170: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.003220615.1.Bacteria.Methylomirabilota	2368.175	0.0	1184.0875
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	170: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	171: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.002717185.1.Bacteria.Proteobacteria	2368.175	0.0	1184.0875
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	171: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	172: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.003140175.1.Bacteria.Actinobacteriota	2368.175	0.0	1184.0875
+hgt	1141	GCA.003140175.1.Bacteria.Actinobacteriota	172: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.003140175.1.Bacteria.Actinobacteriota	2008.575	0.0	1004.2875
+dup	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	NA	2368.175	0.0	1184.0875
+dup	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	NA	2368.175	0.0	1184.0875
+dup	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	NA	2368.175	0.0	1184.0875
+hgt origin	1141	GCA.003140175.1.Bacteria.Actinobacteriota	173: GCA.003140175.1.Bacteria.Actinobacteriota to GCA.003228115.1.Bacteria.Chloroflexota	2008.575	0.0	1004.2875
+hgt	1402	GCA.003228115.1.Bacteria.Chloroflexota	173: GCA.003140175.1.Bacteria.Actinobacteriota to GCA.003228115.1.Bacteria.Chloroflexota	2331.705	0.0	1165.8525
+hgt origin	1141	GCA.003140175.1.Bacteria.Actinobacteriota	174: GCA.003140175.1.Bacteria.Actinobacteriota to GCF.900111015.1.Bacteria.Proteobacteria	2008.575	0.0	1004.2875
+hgt	536	GCF.900111015.1.Bacteria.Proteobacteria	174: GCA.003140175.1.Bacteria.Actinobacteriota to GCF.900111015.1.Bacteria.Proteobacteria	2343.3	0.0	1171.65
+dup	1141	GCA.003140175.1.Bacteria.Actinobacteriota	NA	2008.575	0.0	1004.2875
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	175: GCA.002717185.1.Bacteria.Proteobacteria to GCF.000969705.1.Bacteria.Actinobacteriota	1951.09	0.0	975.545
+hgt	1148	GCF.000969705.1.Bacteria.Actinobacteriota	175: GCA.002717185.1.Bacteria.Proteobacteria to GCF.000969705.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+dup	446	GCA.002717185.1.Bacteria.Proteobacteria	NA	1951.09	0.0	975.545
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	176: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	176: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	177: GCA.002717185.1.Bacteria.Proteobacteria to GCA.006969625.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt	435	GCA.006969625.1.Bacteria.Proteobacteria	177: GCA.002717185.1.Bacteria.Proteobacteria to GCA.006969625.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+hgt origin	435	GCA.006969625.1.Bacteria.Proteobacteria	178: GCA.006969625.1.Bacteria.Proteobacteria to GCF.002148795.1.Bacteria.Proteobacteria	2071.245	0.0	1035.6225
+hgt	456	GCF.002148795.1.Bacteria.Proteobacteria	178: GCA.006969625.1.Bacteria.Proteobacteria to GCF.002148795.1.Bacteria.Proteobacteria	1898.57	0.0	949.285
+hgt origin	1148	GCF.000969705.1.Bacteria.Actinobacteriota	179: GCF.000969705.1.Bacteria.Actinobacteriota to GCF.001942305.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+hgt	1158	GCF.001942305.1.Bacteria.Actinobacteriota	179: GCF.000969705.1.Bacteria.Actinobacteriota to GCF.001942305.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	180: GCA.002238415.1.Bacteria.Desulfobacterota.B to 447	2368.175	0.0	1184.0875
+hgt	483	447	180: GCA.002238415.1.Bacteria.Desulfobacterota.B to 447	2221.01	2113.215	2167.1125
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	181: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.002731375.1.Bacteria.Proteobacteria	2368.175	0.0	1184.0875
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	181: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+hgt origin	498	GCA.002731375.1.Bacteria.Proteobacteria	182: GCA.002731375.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1734.36	0.0	867.18
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	182: GCA.002731375.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	483	447	183: 447 to GCA.003220615.1.Bacteria.Methylomirabilota	2221.01	2113.215	2167.1125
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	183: 447 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	483	447	184: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	184: 447 to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	185: dead to GCA.002717185.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	185: dead to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	186: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	186: dead to GCA.002731375.1.Bacteria.Proteobacteria	1734.36	0.0	867.18
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	483	447	187: 447 to dead	2221.01	2113.215	2167.1125
+hgt	None	dead	187: 447 to dead	0.0	0.0	0.0
+hgt origin	None	dead	188: dead to GCF.006980715.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	462	GCF.006980715.1.Bacteria.Proteobacteria	188: dead to GCF.006980715.1.Bacteria.Proteobacteria	1641.635	0.0	820.8175
+los	None	dead	NA	0.0	0.0	0.0
+spe	483	447	NA	2221.01	2113.215	2167.1125
+spe	447	439	NA	2113.215	1983.035	2048.125
+hgt origin	439	GCF.001613805.1.Bacteria.Proteobacteria	189: GCF.001613805.1.Bacteria.Proteobacteria to GCA.002796975.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+hgt	495	GCA.002796975.1.Bacteria.Proteobacteria	189: GCF.001613805.1.Bacteria.Proteobacteria to GCA.002796975.1.Bacteria.Proteobacteria	1736.875	0.0	868.4375
+los	439	GCF.001613805.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+spe	447	446	NA	2113.215	1951.09	2032.1525
+spe	446	445	NA	1951.09	1836.495	1893.7925
+los	445	GCA.002717225.1.Bacteria.Proteobacteria	NA	1836.495	0.0	918.2475
+spe	445	444	NA	1836.495	1669.2	1752.8475
+los	444	GCA.002686135.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+spe	796	795	NA	2368.175	2229.875	2299.025
+hgt origin	795	791	190: 791 to GCA.002238415.1.Bacteria.Desulfobacterota.B	2229.875	2015.09	2122.4825
+hgt	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	190: 791 to GCA.002238415.1.Bacteria.Desulfobacterota.B	2368.175	0.0	1184.0875
+los	795	791	NA	2229.875	2015.09	2122.4825
+spe	795	794	NA	2229.875	2136.5	2183.1875
+hgt origin	794	GCA.003161515.1.Bacteria.Desulfobacterota.B	191: GCA.003161515.1.Bacteria.Desulfobacterota.B to GCA.003019535.1.Archaea.Thermoproteota	2136.5	0.0	1068.25
+hgt	107	GCA.003019535.1.Archaea.Thermoproteota	191: GCA.003161515.1.Bacteria.Desulfobacterota.B to GCA.003019535.1.Archaea.Thermoproteota	2229.765	0.0	1114.8825
+los	794	GCA.003161515.1.Bacteria.Desulfobacterota.B	NA	2136.5	0.0	1068.25
+hgt origin	794	GCA.001798565.1.Bacteria.Desulfobacterota.B	192: GCA.001798565.1.Bacteria.Desulfobacterota.B to GCA.002238415.1.Bacteria.Desulfobacterota.B	2136.5	0.0	1068.25
+hgt	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	192: GCA.001798565.1.Bacteria.Desulfobacterota.B to GCA.002238415.1.Bacteria.Desulfobacterota.B	2368.175	0.0	1184.0875
+hgt origin	796	GCA.002238415.1.Bacteria.Desulfobacterota.B	193: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCF.004522215.1.Bacteria.Firmicutes	2368.175	0.0	1184.0875
+hgt	1355	GCF.004522215.1.Bacteria.Firmicutes	193: GCA.002238415.1.Bacteria.Desulfobacterota.B to GCF.004522215.1.Bacteria.Firmicutes	1845.21	0.0	922.605
+hgt origin	1355	GCF.004522215.1.Bacteria.Firmicutes	194: GCF.004522215.1.Bacteria.Firmicutes to GCF.900099895.1.Bacteria.Firmicutes	1845.21	0.0	922.605
+hgt	1347	GCF.900099895.1.Bacteria.Firmicutes	194: GCF.004522215.1.Bacteria.Firmicutes to GCF.900099895.1.Bacteria.Firmicutes	1852.54	0.0	926.27
+hgt origin	1228	GCA.003023725.1.Bacteria.Firmicutes.E	195: GCA.003023725.1.Bacteria.Firmicutes.E to GCA.001464275.1.Bacteria.Actinobacteriota	2573.425	0.0	1286.7125
+hgt	1177	GCA.001464275.1.Bacteria.Actinobacteriota	195: GCA.003023725.1.Bacteria.Firmicutes.E to GCA.001464275.1.Bacteria.Actinobacteriota	2055.195	0.0	1027.5975
+hgt origin	1228	GCA.003023725.1.Bacteria.Firmicutes.E	196: GCA.003023725.1.Bacteria.Firmicutes.E to 446	2573.425	0.0	1286.7125
+hgt	447	446	196: GCA.003023725.1.Bacteria.Firmicutes.E to 446	2113.215	1951.09	2032.1525
+spe	447	446	NA	2113.215	1951.09	2032.1525
+hgt origin	446	445	197: 445 to GCA.003220615.1.Bacteria.Methylomirabilota	1951.09	1836.495	1893.7925
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	197: 445 to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	446	445	198: 445 to GCA.003151665.1.Bacteria.Dormibacterota	1951.09	1836.495	1893.7925
+hgt	1396	GCA.003151665.1.Bacteria.Dormibacterota	198: 445 to GCA.003151665.1.Bacteria.Dormibacterota	2525.675	0.0	1262.8375
+spe	446	445	NA	1951.09	1836.495	1893.7925
+hgt origin	445	GCA.002717225.1.Bacteria.Proteobacteria	199: GCA.002717225.1.Bacteria.Proteobacteria to GCA.002841995.1.Bacteria.Chloroflexota	1836.495	0.0	918.2475
+hgt	1438	GCA.002841995.1.Bacteria.Chloroflexota	199: GCA.002717225.1.Bacteria.Proteobacteria to GCA.002841995.1.Bacteria.Chloroflexota	1986.755	0.0	993.3775
+dup	445	GCA.002717225.1.Bacteria.Proteobacteria	NA	1836.495	0.0	918.2475
+hgt origin	445	GCA.002717225.1.Bacteria.Proteobacteria	200: GCA.002717225.1.Bacteria.Proteobacteria to GCA.002708145.1.Bacteria.Chloroflexota	1836.495	0.0	918.2475
+hgt	1399	GCA.002708145.1.Bacteria.Chloroflexota	200: GCA.002717225.1.Bacteria.Proteobacteria to GCA.002708145.1.Bacteria.Chloroflexota	2391.86	0.0	1195.93
+hgt origin	445	GCA.002717225.1.Bacteria.Proteobacteria	201: GCA.002717225.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1836.495	0.0	918.2475
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	201: GCA.002717225.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	1399	GCA.002708145.1.Bacteria.Chloroflexota	202: GCA.002708145.1.Bacteria.Chloroflexota to GCF.004348535.1.Bacteria.Actinobacteriota	2391.86	0.0	1195.93
+hgt	1166	GCF.004348535.1.Bacteria.Actinobacteriota	202: GCA.002708145.1.Bacteria.Chloroflexota to GCF.004348535.1.Bacteria.Actinobacteriota	1991.825	0.0	995.9125
+hgt origin	1399	GCA.002708145.1.Bacteria.Chloroflexota	203: GCA.002708145.1.Bacteria.Chloroflexota to GCF.000969705.1.Bacteria.Actinobacteriota	2391.86	0.0	1195.93
+hgt	1148	GCF.000969705.1.Bacteria.Actinobacteriota	203: GCA.002708145.1.Bacteria.Chloroflexota to GCF.000969705.1.Bacteria.Actinobacteriota	2328.75	0.0	1164.375
+dup	1399	GCA.002708145.1.Bacteria.Chloroflexota	NA	2391.86	0.0	1195.93
+hgt origin	1166	GCF.004348535.1.Bacteria.Actinobacteriota	204: GCF.004348535.1.Bacteria.Actinobacteriota to GCF.900106035.1.Bacteria.Actinobacteriota	1991.825	0.0	995.9125
+hgt	1158	GCF.900106035.1.Bacteria.Actinobacteriota	204: GCF.004348535.1.Bacteria.Actinobacteriota to GCF.900106035.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt origin	1438	GCA.002841995.1.Bacteria.Chloroflexota	205: GCA.002841995.1.Bacteria.Chloroflexota to GCA.003242195.1.Bacteria.Firmicutes.E	1986.755	0.0	993.3775
+hgt	1226	GCA.003242195.1.Bacteria.Firmicutes.E	205: GCA.002841995.1.Bacteria.Chloroflexota to GCA.003242195.1.Bacteria.Firmicutes.E	2297.705	0.0	1148.8525
+hgt origin	1438	GCA.002841995.1.Bacteria.Chloroflexota	206: GCA.002841995.1.Bacteria.Chloroflexota to GCA.002898935.1.Bacteria.CSP1.3	1986.755	0.0	993.3775
+hgt	1128	GCA.002898935.1.Bacteria.CSP1.3	206: GCA.002841995.1.Bacteria.Chloroflexota to GCA.002898935.1.Bacteria.CSP1.3	3141.47	0.0	1570.735
+hgt origin	1438	GCA.002841995.1.Bacteria.Chloroflexota	207: GCA.002841995.1.Bacteria.Chloroflexota to GCF.001306175.1.Bacteria.Chloroflexota	1986.755	0.0	993.3775
+hgt	1440	GCF.001306175.1.Bacteria.Chloroflexota	207: GCA.002841995.1.Bacteria.Chloroflexota to GCF.001306175.1.Bacteria.Chloroflexota	2358.68	0.0	1179.34
+spe	445	444	NA	1836.495	1669.2	1752.8475
+hgt origin	444	GCA.002686135.1.Bacteria.Proteobacteria	208: GCA.002686135.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1669.2	0.0	834.6
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	208: GCA.002686135.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+los	444	GCA.002686135.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	209: GCA.002348425.1.Bacteria.Proteobacteria to GCA.003280605.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	453	GCA.003280605.1.Bacteria.Proteobacteria	209: GCA.002348425.1.Bacteria.Proteobacteria to GCA.003280605.1.Bacteria.Proteobacteria	1231.6385	0.0	615.81925
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	210: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	210: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	211: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002723345.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	439	GCA.002723345.1.Bacteria.Proteobacteria	211: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002723345.1.Bacteria.Proteobacteria	1983.035	0.0	991.5175
+dup	444	GCA.002348425.1.Bacteria.Proteobacteria	NA	1669.2	0.0	834.6
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	212: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	446	GCA.002717185.1.Bacteria.Proteobacteria	212: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002717185.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt origin	444	GCA.002348425.1.Bacteria.Proteobacteria	213: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002348365.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+hgt	489	GCA.002348365.1.Bacteria.Proteobacteria	213: GCA.002348425.1.Bacteria.Proteobacteria to GCA.002348365.1.Bacteria.Proteobacteria	1797.555	0.0	898.7775
+dup	439	GCA.002723345.1.Bacteria.Proteobacteria	NA	1983.035	0.0	991.5175
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	214: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002710215.1.Bacteria.Chloroflexota	1951.09	0.0	975.545
+hgt	1406	GCA.002710215.1.Bacteria.Chloroflexota	214: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002710215.1.Bacteria.Chloroflexota	2276.4	0.0	1138.2
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	215: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1951.09	0.0	975.545
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	215: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	216: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	1951.09	0.0	975.545
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	216: GCA.002717185.1.Bacteria.Proteobacteria to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	217: GCA.002717185.1.Bacteria.Proteobacteria to GCF.000503775.1.Bacteria.Firmicutes	1951.09	0.0	975.545
+hgt	1355	GCF.000503775.1.Bacteria.Firmicutes	217: GCA.002717185.1.Bacteria.Proteobacteria to GCF.000503775.1.Bacteria.Firmicutes	1845.21	0.0	922.605
+hgt origin	446	GCA.002717185.1.Bacteria.Proteobacteria	218: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002348425.1.Bacteria.Proteobacteria	1951.09	0.0	975.545
+hgt	444	GCA.002348425.1.Bacteria.Proteobacteria	218: GCA.002717185.1.Bacteria.Proteobacteria to GCA.002348425.1.Bacteria.Proteobacteria	1669.2	0.0	834.6
+dup	741	GCA.003220615.1.Bacteria.Methylomirabilota	NA	2582.55	0.0	1291.275
+dup	741	GCA.003220615.1.Bacteria.Methylomirabilota	NA	2582.55	0.0	1291.275
+hgt origin	741	GCA.003220615.1.Bacteria.Methylomirabilota	219: GCA.003220615.1.Bacteria.Methylomirabilota to GCF.900079095.1.Bacteria.Tectomicrobia	2582.55	0.0	1291.275
+hgt	746	GCF.900079095.1.Bacteria.Tectomicrobia	219: GCA.003220615.1.Bacteria.Methylomirabilota to GCF.900079095.1.Bacteria.Tectomicrobia	2548.44	0.0	1274.22
+hgt origin	1406	GCA.002710215.1.Bacteria.Chloroflexota	220: GCA.002710215.1.Bacteria.Chloroflexota to GCA.003220615.1.Bacteria.Methylomirabilota	2276.4	0.0	1138.2
+hgt	741	GCA.003220615.1.Bacteria.Methylomirabilota	220: GCA.002710215.1.Bacteria.Chloroflexota to GCA.003220615.1.Bacteria.Methylomirabilota	2582.55	0.0	1291.275
+hgt origin	1406	GCA.002710215.1.Bacteria.Chloroflexota	221: GCA.002710215.1.Bacteria.Chloroflexota to GCF.900106035.1.Bacteria.Actinobacteriota	2276.4	0.0	1138.2
+hgt	1158	GCF.900106035.1.Bacteria.Actinobacteriota	221: GCA.002710215.1.Bacteria.Chloroflexota to GCF.900106035.1.Bacteria.Actinobacteriota	1386.605	0.0	693.3025
+hgt origin	1406	GCA.002710215.1.Bacteria.Chloroflexota	222: GCA.002710215.1.Bacteria.Chloroflexota to GCF.006980715.1.Bacteria.Proteobacteria	2276.4	0.0	1138.2
+hgt	462	GCF.006980715.1.Bacteria.Proteobacteria	222: GCA.002710215.1.Bacteria.Chloroflexota to GCF.006980715.1.Bacteria.Proteobacteria	1641.635	0.0	820.8175
+dup	1406	GCA.002710215.1.Bacteria.Chloroflexota	NA	2276.4	0.0	1138.2
+hgt origin	1177	GCA.001464275.1.Bacteria.Actinobacteriota	223: GCA.001464275.1.Bacteria.Actinobacteriota to GCF.000384115.1.Bacteria.Actinobacteriota	2055.195	0.0	1027.5975
+hgt	1163	GCF.000384115.1.Bacteria.Actinobacteriota	223: GCA.001464275.1.Bacteria.Actinobacteriota to GCF.000384115.1.Bacteria.Actinobacteriota	1488.035	0.0	744.0175
+hgt origin	1177	GCA.001464275.1.Bacteria.Actinobacteriota	224: GCA.001464275.1.Bacteria.Actinobacteriota to GCA.002717225.1.Bacteria.Proteobacteria	2055.195	0.0	1027.5975
+hgt	445	GCA.002717225.1.Bacteria.Proteobacteria	224: GCA.001464275.1.Bacteria.Actinobacteriota to GCA.002717225.1.Bacteria.Proteobacteria	1836.495	0.0	918.2475
+hgt origin	1163	GCF.000384115.1.Bacteria.Actinobacteriota	225: GCF.000384115.1.Bacteria.Actinobacteriota to GCF.001591405.1.Bacteria.Actinobacteria	1488.035	0.0	744.0175
+hgt	1154	GCF.001591405.1.Bacteria.Actinobacteria	225: GCF.000384115.1.Bacteria.Actinobacteriota to GCF.001591405.1.Bacteria.Actinobacteria	1356.86	0.0	678.43

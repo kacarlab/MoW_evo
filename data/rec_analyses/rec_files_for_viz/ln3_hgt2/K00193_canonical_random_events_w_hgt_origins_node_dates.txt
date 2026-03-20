@@ -1,0 +1,35 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	91	90	NA	2116.885	1918.545	2017.715
+spe	90	89	NA	1918.545	1761.97	1840.2575
+spe	89	88	NA	1761.97	1623.18	1692.575
+los	88	80	NA	1623.18	1389.95	1506.565
+spe	88	87	NA	1623.18	1522.785	1572.9825
+spe	87	86	NA	1522.785	1362.965	1442.875
+spe	86	84	NA	1362.965	1194.24	1278.6025
+los	84	GCF.000011005.1.Archaea.Euryarchaeota	NA	1194.24	0.0	597.12
+hgt origin	86	GCA.001412335.1.Archaea.Halobacteriota	1: GCA.001412335.1.Archaea.Halobacteriota to GCF.000970205.1.Archaea.Halobacteriota	1362.965	0.0	681.4825
+hgt	84	GCF.000970205.1.Archaea.Halobacteriota	1: GCA.001412335.1.Archaea.Halobacteriota to GCF.000970205.1.Archaea.Halobacteriota	1194.24	0.0	597.12
+los	86	GCA.001412335.1.Archaea.Halobacteriota	NA	1362.965	0.0	681.4825
+spe	89	77	NA	1761.97	1438.885	1600.4275
+spe	90	74	NA	1918.545	1703.245	1810.895
+hgt origin	74	GCA.002011165.1.Archaea.Halobacteriota	2: GCA.002011165.1.Archaea.Halobacteriota to GCA.001723855.1.Archaea.Altiarchaeota	1703.245	0.0	851.6225
+hgt	31	GCA.001723855.1.Archaea.Altiarchaeota	2: GCA.002011165.1.Archaea.Halobacteriota to GCA.001723855.1.Archaea.Altiarchaeota	2249.94	0.0	1124.97
+hgt origin	74	GCA.002011165.1.Archaea.Halobacteriota	3: GCA.002011165.1.Archaea.Halobacteriota to GCA.001273335.1.Archaea.Thermoproteota	1703.245	0.0	851.6225
+hgt	121	GCA.001273335.1.Archaea.Thermoproteota	3: GCA.002011165.1.Archaea.Halobacteriota to GCA.001273335.1.Archaea.Thermoproteota	1500.96	0.0	750.48
+hgt origin	121	GCA.001273335.1.Archaea.Thermoproteota	4: GCA.001273335.1.Archaea.Thermoproteota to GCA.001593855.1.Archaea.Thermoproteota	1500.96	0.0	750.48
+hgt	118	GCA.001593855.1.Archaea.Thermoproteota	4: GCA.001273335.1.Archaea.Thermoproteota to GCA.001593855.1.Archaea.Thermoproteota	1695.4	0.0	847.7
+hgt origin	121	GCA.001273335.1.Archaea.Thermoproteota	5: GCA.001273335.1.Archaea.Thermoproteota to GCA.001563325.1.Archaea.Asgardarchaeota	1500.96	0.0	750.48
+hgt	143	GCA.001563325.1.Archaea.Asgardarchaeota	5: GCA.001273335.1.Archaea.Thermoproteota to GCA.001563325.1.Archaea.Asgardarchaeota	2114.17	0.0	1057.085
+hgt origin	121	GCA.001273335.1.Archaea.Thermoproteota	6: GCA.001273335.1.Archaea.Thermoproteota to GCA.001593865.1.Archaea.Thermoproteota	1500.96	0.0	750.48
+hgt	113	GCA.001593865.1.Archaea.Thermoproteota	6: GCA.001273335.1.Archaea.Thermoproteota to GCA.001593865.1.Archaea.Thermoproteota	1818.745	0.0	909.3725
+hgt origin	121	GCA.001273335.1.Archaea.Thermoproteota	7: GCA.001273335.1.Archaea.Thermoproteota to GCA.002011075.1.Archaea.Thermoproteota	1500.96	0.0	750.48
+hgt	128	GCA.002011075.1.Archaea.Thermoproteota	7: GCA.001273335.1.Archaea.Thermoproteota to GCA.002011075.1.Archaea.Thermoproteota	786.4855	0.0	393.24275
+dup	143	GCA.001563325.1.Archaea.Asgardarchaeota	NA	2114.17	0.0	1057.085
+hgt origin	31	GCA.001723855.1.Archaea.Altiarchaeota	8: GCA.001723855.1.Archaea.Altiarchaeota to GCA.001742785.1.Archaea.Altiarchaeota	2249.94	0.0	1124.97
+hgt	29	GCA.001742785.1.Archaea.Altiarchaeota	8: GCA.001723855.1.Archaea.Altiarchaeota to GCA.001742785.1.Archaea.Altiarchaeota	1749.91	0.0	874.955
+hgt origin	29	GCA.001742785.1.Archaea.Altiarchaeota	9: GCA.001742785.1.Archaea.Altiarchaeota to GCF.000025525.1.Archaea.Methanobacteriota.A	1749.91	0.0	874.955
+hgt	93	GCF.000025525.1.Archaea.Methanobacteriota.A	9: GCA.001742785.1.Archaea.Altiarchaeota to GCF.000025525.1.Archaea.Methanobacteriota.A	2518.68	0.0	1259.34
+hgt origin	29	GCA.001742785.1.Archaea.Altiarchaeota	10: GCA.001742785.1.Archaea.Altiarchaeota to GCA.002841105.1.Archaea.Altiarchaeota	1749.91	0.0	874.955
+hgt	26	GCA.002841105.1.Archaea.Altiarchaeota	10: GCA.001742785.1.Archaea.Altiarchaeota to GCA.002841105.1.Archaea.Altiarchaeota	482.601	0.0	241.3005
+hgt origin	93	GCF.000025525.1.Archaea.Methanobacteriota.A	11: GCF.000025525.1.Archaea.Methanobacteriota.A to GCF.002201895.1.Archaea.Euryarchaeota	2518.68	0.0	1259.34
+hgt	35	GCF.002201895.1.Archaea.Euryarchaeota	11: GCF.000025525.1.Archaea.Methanobacteriota.A to GCF.002201895.1.Archaea.Euryarchaeota	2226.53	0.0	1113.265

@@ -1,0 +1,19 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	686	GCA.002451015.1.Bacteria.Acidobacteriota	1: GCA.002451015.1.Bacteria.Acidobacteriota to GCF.003097315.1.Bacteria.Proteobacteria	1699.78	0.0	849.89
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	1: GCA.002451015.1.Bacteria.Acidobacteriota to GCF.003097315.1.Bacteria.Proteobacteria	1345.44	0.0	672.72
+hgt origin	686	GCA.002451015.1.Bacteria.Acidobacteriota	2: GCA.002451015.1.Bacteria.Acidobacteriota to GCF.000092845.1.Bacteria.Spirochaetota	1699.78	0.0	849.89
+hgt	370	GCF.000092845.1.Bacteria.Spirochaetota	2: GCA.002451015.1.Bacteria.Acidobacteriota to GCF.000092845.1.Bacteria.Spirochaetota	2115.08	0.0	1057.54
+hgt origin	370	GCF.000092845.1.Bacteria.Spirochaetota	3: GCF.000092845.1.Bacteria.Spirochaetota to GCF.900100785.1.Bacteria.Firmicutes.B	2115.08	0.0	1057.54
+hgt	1319	GCF.900100785.1.Bacteria.Firmicutes.B	3: GCF.000092845.1.Bacteria.Spirochaetota to GCF.900100785.1.Bacteria.Firmicutes.B	1933.46	0.0	966.73
+hgt origin	613	GCF.003097315.1.Bacteria.Proteobacteria	4: GCF.003097315.1.Bacteria.Proteobacteria to GCF.000233775.1.Bacteria.Synergistota	1345.44	0.0	672.72
+hgt	1058	GCF.000233775.1.Bacteria.Synergistota	4: GCF.003097315.1.Bacteria.Proteobacteria to GCF.000233775.1.Bacteria.Synergistota	2648.915	0.0	1324.4575
+hgt origin	613	GCF.003097315.1.Bacteria.Proteobacteria	5: GCF.003097315.1.Bacteria.Proteobacteria to GCA.001045525.1.Bacteria.Fibrobacterota	1345.44	0.0	672.72
+hgt	934	GCA.001045525.1.Bacteria.Fibrobacterota	5: GCF.003097315.1.Bacteria.Proteobacteria to GCA.001045525.1.Bacteria.Fibrobacterota	2007.3	0.0	1003.65
+hgt origin	934	GCA.001045525.1.Bacteria.Fibrobacterota	6: GCA.001045525.1.Bacteria.Fibrobacterota to GCA.002255365.1.Bacteria.Proteobacteria	2007.3	0.0	1003.65
+hgt	570	GCA.002255365.1.Bacteria.Proteobacteria	6: GCA.001045525.1.Bacteria.Fibrobacterota to GCA.002255365.1.Bacteria.Proteobacteria	1624.36	0.0	812.18
+hgt origin	934	GCA.001045525.1.Bacteria.Fibrobacterota	7: GCA.001045525.1.Bacteria.Fibrobacterota to GCA.001940645.1.Archaea.Asgardarchaeota	2007.3	0.0	1003.65
+hgt	150	GCA.001940645.1.Archaea.Asgardarchaeota	7: GCA.001045525.1.Bacteria.Fibrobacterota to GCA.001940645.1.Archaea.Asgardarchaeota	1958.415	0.0	979.2075
+hgt origin	570	GCA.002255365.1.Bacteria.Proteobacteria	8: GCA.002255365.1.Bacteria.Proteobacteria to GCF.000013045.1.Bacteria.Bacteroidota	1624.36	0.0	812.18
+hgt	967	GCF.000013045.1.Bacteria.Bacteroidota	8: GCA.002255365.1.Bacteria.Proteobacteria to GCF.000013045.1.Bacteria.Bacteroidota	1840.425	0.0	920.2125
+hgt origin	1058	GCF.000233775.1.Bacteria.Synergistota	9: GCF.000233775.1.Bacteria.Synergistota to GCF.000328625.1.Bacteria.Firmicutes.F	2648.915	0.0	1324.4575
+hgt	1215	GCF.000328625.1.Bacteria.Firmicutes.F	9: GCF.000233775.1.Bacteria.Synergistota to GCF.000328625.1.Bacteria.Firmicutes.F	1572.11	0.0	786.055

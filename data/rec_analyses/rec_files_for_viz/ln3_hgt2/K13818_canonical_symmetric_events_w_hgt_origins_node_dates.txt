@@ -1,0 +1,13 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	895	GCA.002897695.1.Bacteria.BMS3Abin14	1: GCA.002897695.1.Bacteria.BMS3Abin14 to GCF.000526155.1.Bacteria.Desulfobacterota	2183.84	0.0	1091.92
+hgt	397	GCF.000526155.1.Bacteria.Desulfobacterota	1: GCA.002897695.1.Bacteria.BMS3Abin14 to GCF.000526155.1.Bacteria.Desulfobacterota	2952.9	0.0	1476.45
+hgt origin	895	GCA.002897695.1.Bacteria.BMS3Abin14	2: GCA.002897695.1.Bacteria.BMS3Abin14 to GCF.000526155.1.Bacteria.Desulfobacterota	2183.84	0.0	1091.92
+hgt	397	GCF.000526155.1.Bacteria.Desulfobacterota	2: GCA.002897695.1.Bacteria.BMS3Abin14 to GCF.000526155.1.Bacteria.Desulfobacterota	2952.9	0.0	1476.45
+hgt origin	397	GCF.000526155.1.Bacteria.Desulfobacterota	3: GCF.000526155.1.Bacteria.Desulfobacterota to GCA.002291985.1.Bacteria.Firmicutes.E	2952.9	0.0	1476.45
+hgt	1233	GCA.002291985.1.Bacteria.Firmicutes.E	3: GCF.000526155.1.Bacteria.Desulfobacterota to GCA.002291985.1.Bacteria.Firmicutes.E	1459.0	0.0	729.5
+hgt origin	1233	GCA.002291985.1.Bacteria.Firmicutes.E	4: GCA.002291985.1.Bacteria.Firmicutes.E to GCA.002347645.1.Bacteria.Actinobacteriota	1459.0	0.0	729.5
+hgt	1178	GCA.002347645.1.Bacteria.Actinobacteriota	4: GCA.002291985.1.Bacteria.Firmicutes.E to GCA.002347645.1.Bacteria.Actinobacteriota	1623.895	0.0	811.9475
+hgt origin	1233	GCA.002291985.1.Bacteria.Firmicutes.E	5: GCA.002291985.1.Bacteria.Firmicutes.E to GCF.001720165.1.Bacteria.Proteobacteria	1459.0	0.0	729.5
+hgt	592	GCF.001720165.1.Bacteria.Proteobacteria	5: GCA.002291985.1.Bacteria.Firmicutes.E to GCF.001720165.1.Bacteria.Proteobacteria	1238.975	0.0	619.4875
+hgt origin	1178	GCA.002347645.1.Bacteria.Actinobacteriota	6: GCA.002347645.1.Bacteria.Actinobacteriota to GCF.001611275.1.Bacteria.Desulfobacterota	1623.895	0.0	811.9475
+hgt	846	GCF.001611275.1.Bacteria.Desulfobacterota	6: GCA.002347645.1.Bacteria.Actinobacteriota to GCF.001611275.1.Bacteria.Desulfobacterota	1968.67	0.0	984.335

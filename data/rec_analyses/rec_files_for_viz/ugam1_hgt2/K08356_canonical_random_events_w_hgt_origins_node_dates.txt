@@ -1,0 +1,15 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	741	GCA.001771285.1.Bacteria.Methylomirabilota	1: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.001784175.1.Bacteria.Lindowbacteria	1693.345	0.0	846.6725
+hgt	275	GCA.001784175.1.Bacteria.Lindowbacteria	1: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.001784175.1.Bacteria.Lindowbacteria	2298.405	0.0	1149.2025
+hgt origin	741	GCA.001771285.1.Bacteria.Methylomirabilota	2: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002746185.1.Bacteria.Hydrogenedentota	1693.345	0.0	846.6725
+hgt	270	GCA.002746185.1.Bacteria.Hydrogenedentota	2: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002746185.1.Bacteria.Hydrogenedentota	2158.53	0.0	1079.265
+hgt origin	741	GCA.001771285.1.Bacteria.Methylomirabilota	3: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002238965.1.Bacteria.UBA8248	1693.345	0.0	846.6725
+hgt	746	GCA.002238965.1.Bacteria.UBA8248	3: GCA.001771285.1.Bacteria.Methylomirabilota to GCA.002238965.1.Bacteria.UBA8248	1667.435	0.0	833.7175
+hgt origin	275	GCA.001784175.1.Bacteria.Lindowbacteria	4: GCA.001784175.1.Bacteria.Lindowbacteria to GCA.002401295.1.Bacteria.SAR324	2298.405	0.0	1149.2025
+hgt	400	GCA.002401295.1.Bacteria.SAR324	4: GCA.001784175.1.Bacteria.Lindowbacteria to GCA.002401295.1.Bacteria.SAR324	1933.765	0.0	966.8825
+hgt origin	400	GCA.002401295.1.Bacteria.SAR324	5: GCA.002401295.1.Bacteria.SAR324 to GCA.002500605.1.Bacteria.Nitrospinota	1933.765	0.0	966.8825
+hgt	751	GCA.002500605.1.Bacteria.Nitrospinota	5: GCA.002401295.1.Bacteria.SAR324 to GCA.002500605.1.Bacteria.Nitrospinota	1613.625	0.0	806.8125
+hgt origin	400	GCA.002401295.1.Bacteria.SAR324	6: GCA.002401295.1.Bacteria.SAR324 to GCA.002731375.1.Bacteria.Proteobacteria	1933.765	0.0	966.8825
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	6: GCA.002401295.1.Bacteria.SAR324 to GCA.002731375.1.Bacteria.Proteobacteria	1261.48	0.0	630.74
+hgt origin	498	GCA.002731375.1.Bacteria.Proteobacteria	7: GCA.002731375.1.Bacteria.Proteobacteria to GCF.003097315.1.Bacteria.Proteobacteria	1261.48	0.0	630.74
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	7: GCA.002731375.1.Bacteria.Proteobacteria to GCF.003097315.1.Bacteria.Proteobacteria	1391.71	0.0	695.855

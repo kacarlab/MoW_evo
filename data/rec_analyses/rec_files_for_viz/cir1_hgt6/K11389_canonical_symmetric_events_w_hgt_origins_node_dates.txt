@@ -1,0 +1,56 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	389	388	1: 388 to dead	2948.12	2845.905	2897.0125
+hgt	None	dead	1: 388 to dead	0.0	0.0	0.0
+hgt origin	389	388	2: 388 to dead	2948.12	2845.905	2897.0125
+hgt	None	dead	2: 388 to dead	0.0	0.0	0.0
+spe	389	388	NA	2948.12	2845.905	2897.0125
+spe	388	376	NA	2845.905	2638.94	2742.4225
+los	376	374	NA	2638.94	2303.81	2471.375
+spe	388	387	NA	2845.905	2737.525	2791.715
+los	387	386	NA	2737.525	2547.685	2642.605
+hgt origin	387	383	3: 383 to dead	2737.525	2480.61	2609.0675
+hgt	None	dead	3: 383 to dead	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCA.001799695.1.Bacteria.Elusimicrobiota	0.0	0.0	0.0
+hgt	248	GCA.001799695.1.Bacteria.Elusimicrobiota	4: dead to GCA.001799695.1.Bacteria.Elusimicrobiota	1920.715	0.0	960.3575
+los	None	dead	NA	0.0	0.0	0.0
+spe	387	383	NA	2737.525	2480.61	2609.0675
+los	383	381	NA	2480.61	2192.73	2336.67
+hgt origin	383	GCA.001829315.1.Bacteria.Spirochaetota	5: GCA.001829315.1.Bacteria.Spirochaetota to dead	2480.61	0.0	1240.305
+hgt	None	dead	5: GCA.001829315.1.Bacteria.Spirochaetota to dead	0.0	0.0	0.0
+hgt origin	None	dead	6: dead to GCA.002841825.1.Bacteria.Myxococcota	0.0	0.0	0.0
+hgt	821	GCA.002841825.1.Bacteria.Myxococcota	6: dead to GCA.002841825.1.Bacteria.Myxococcota	2160.835	0.0	1080.4175
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	-1	7: -1 to GCA.003242895.1.Bacteria.Margulisbacteria	0.0	0.0	0.0
+hgt	1651	GCA.003242895.1.Bacteria.Margulisbacteria	7: -1 to GCA.003242895.1.Bacteria.Margulisbacteria	2569.225	0.0	1284.6125
+hgt origin	None	dead	8: dead to GCA.002451015.1.Bacteria.Acidobacteriota	0.0	0.0	0.0
+hgt	686	GCA.002451015.1.Bacteria.Acidobacteriota	8: dead to GCA.002451015.1.Bacteria.Acidobacteriota	2295.75	0.0	1147.875
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	-1	9: -1 to 95	0.0	0.0	0.0
+hgt	177	95	9: -1 to 95	2987.475	2895.515	2941.495
+hgt origin	None	dead	10: dead to GCA.000739515.1.Bacteria.Moduliflexota	0.0	0.0	0.0
+hgt	895	GCA.000739515.1.Bacteria.Moduliflexota	10: dead to GCA.000739515.1.Bacteria.Moduliflexota	2668.13	0.0	1334.065
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	177	95	11: 95 to dead	2987.475	2895.515	2941.495
+hgt	None	dead	11: 95 to dead	0.0	0.0	0.0
+hgt origin	None	dead	12: dead to GCA.002841995.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1438	GCA.002841995.1.Bacteria.Chloroflexota	12: dead to GCA.002841995.1.Bacteria.Chloroflexota	1986.755	0.0	993.3775
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	177	95	13: 95 to dead	2987.475	2895.515	2941.495
+hgt	None	dead	13: 95 to dead	0.0	0.0	0.0
+spe	177	95	NA	2987.475	2895.515	2941.495
+spe	95	94	NA	2895.515	2874.54	2885.0275
+los	94	42	NA	2874.54	2631.08	2752.81
+spe	94	93	NA	2874.54	2781.775	2828.1575
+los	93	92	NA	2781.775	2715.565	2748.67
+spe	95	39	NA	2895.515	2772.035	2833.775
+los	39	35	NA	2772.035	2625.215	2698.625
+spe	39	38	NA	2772.035	2538.31	2655.1725
+los	38	GCA.001515205.2.Archaea.Hadarchaeota	NA	2538.31	0.0	1269.155
+hgt origin	None	dead	14: dead to 99	0.0	0.0	0.0
+hgt	101	99	14: dead to 99	2213.35	2047.925	2130.6375
+los	None	dead	NA	0.0	0.0	0.0
+spe	101	99	NA	2213.35	2047.925	2130.6375
+hgt origin	99	GCF.001481685.1.Archaea.Thermoproteota	15: GCF.001481685.1.Archaea.Thermoproteota to GCF.000148385.1.Archaea.Thermoproteota	2047.925	0.0	1023.9625
+hgt	108	GCF.000148385.1.Archaea.Thermoproteota	15: GCF.001481685.1.Archaea.Thermoproteota to GCF.000148385.1.Archaea.Thermoproteota	2433.705	0.0	1216.8525
+hgt origin	99	GCF.000092185.1.Archaea.Thermoproteota	16: GCF.000092185.1.Archaea.Thermoproteota to GCA.002877985.1.Bacteria.Desulfobacterota	2047.925	0.0	1023.9625
+hgt	866	GCA.002877985.1.Bacteria.Desulfobacterota	16: GCF.000092185.1.Archaea.Thermoproteota to GCA.002877985.1.Bacteria.Desulfobacterota	2095.425	0.0	1047.7125

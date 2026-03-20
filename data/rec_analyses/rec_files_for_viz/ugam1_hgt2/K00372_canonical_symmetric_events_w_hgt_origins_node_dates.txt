@@ -1,0 +1,69 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	645	644	NA	1840.255	1647.11	1743.6825
+hgt origin	644	643	1: 643 to dead	1647.11	1467.95	1557.53
+hgt	None	dead	1: 643 to dead	0.0	0.0	0.0
+hgt origin	None	dead	2: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	2: dead to GCA.002731375.1.Bacteria.Proteobacteria	1261.48	0.0	630.74
+los	None	dead	NA	0.0	0.0	0.0
+spe	644	643	NA	1647.11	1467.95	1557.53
+los	643	639	NA	1467.95	1269.845	1368.8975
+spe	643	642	NA	1467.95	1332.36	1400.155
+hgt origin	642	GCA.001447805.1.Bacteria.Proteobacteria	3: GCA.001447805.1.Bacteria.Proteobacteria to GCA.003230085.1.Bacteria.Proteobacteria	1332.36	0.0	666.18
+hgt	639	GCA.003230085.1.Bacteria.Proteobacteria	3: GCA.001447805.1.Bacteria.Proteobacteria to GCA.003230085.1.Bacteria.Proteobacteria	1269.845	0.0	634.9225
+spe	644	636	NA	1647.11	1555.685	1601.3975
+hgt origin	636	GCA.002840095.1.Bacteria.Proteobacteria	4: GCA.002840095.1.Bacteria.Proteobacteria to GCA.002451085.1.Bacteria.Proteobacteria	1555.685	0.0	777.8425
+hgt	529	GCA.002451085.1.Bacteria.Proteobacteria	4: GCA.002840095.1.Bacteria.Proteobacteria to GCA.002451085.1.Bacteria.Proteobacteria	1606.235	0.0	803.1175
+hgt origin	636	634	5: 634 to 570	1555.685	1386.92	1471.3025
+hgt	571	570	5: 634 to 570	1706.635	1535.435	1621.035
+hgt origin	636	634	6: 634 to dead	1555.685	1386.92	1471.3025
+hgt	None	dead	6: 634 to dead	0.0	0.0	0.0
+hgt origin	None	-1	7: -1 to 469	0.0	0.0	0.0
+hgt	481	469	7: -1 to 469	1674.98	1543.27	1609.125
+hgt origin	None	-1	8: -1 to GCA.002340345.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	458	GCA.002340345.1.Bacteria.Proteobacteria	8: -1 to GCA.002340345.1.Bacteria.Proteobacteria	1624.365	0.0	812.1825
+hgt origin	None	dead	9: dead to GCF.003173035.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	495	GCF.003173035.1.Bacteria.Proteobacteria	9: dead to GCF.003173035.1.Bacteria.Proteobacteria	1237.1635	0.0	618.58175
+los	None	dead	NA	0.0	0.0	0.0
+spe	481	469	NA	1674.98	1543.27	1609.125
+spe	469	463	NA	1543.27	1394.155	1468.7125
+spe	463	462	NA	1394.155	1117.2015	1255.67825
+los	462	GCF.000315795.1.Bacteria.Proteobacteria	NA	1117.2015	0.0	558.60075
+hgt origin	463	GCF.002251795.1.Bacteria.Proteobacteria	10: GCF.002251795.1.Bacteria.Proteobacteria to GCF.000315795.1.Bacteria.Proteobacteria	1394.155	0.0	697.0775
+hgt	462	GCF.000315795.1.Bacteria.Proteobacteria	10: GCF.002251795.1.Bacteria.Proteobacteria to GCF.000315795.1.Bacteria.Proteobacteria	1117.2015	0.0	558.60075
+hgt origin	462	GCF.000315795.1.Bacteria.Proteobacteria	11: GCF.000315795.1.Bacteria.Proteobacteria to GCF.001613805.1.Bacteria.Proteobacteria	1117.2015	0.0	558.60075
+hgt	439	GCF.001613805.1.Bacteria.Proteobacteria	11: GCF.000315795.1.Bacteria.Proteobacteria to GCF.001613805.1.Bacteria.Proteobacteria	1422.265	0.0	711.1325
+spe	469	468	NA	1543.27	1359.195	1451.2325
+spe	468	467	NA	1359.195	1181.4985	1270.34675
+hgt origin	467	GCA.002291925.1.Bacteria.Proteobacteria	12: GCA.002291925.1.Bacteria.Proteobacteria to GCA.001464215.1.Bacteria.Proteobacteria	1181.4985	0.0	590.74925
+hgt	506	GCA.001464215.1.Bacteria.Proteobacteria	12: GCA.002291925.1.Bacteria.Proteobacteria to GCA.001464215.1.Bacteria.Proteobacteria	1217.64	0.0	608.82
+los	467	GCA.002291925.1.Bacteria.Proteobacteria	NA	1181.4985	0.0	590.74925
+hgt origin	636	634	13: 634 to dead	1555.685	1386.92	1471.3025
+hgt	None	dead	13: 634 to dead	0.0	0.0	0.0
+spe	636	634	NA	1555.685	1386.92	1471.3025
+los	634	GCF.002020875.1.Bacteria.Proteobacteria	NA	1386.92	0.0	693.46
+hgt origin	None	-1	14: -1 to 613	0.0	0.0	0.0
+hgt	614	613	14: -1 to 613	1511.555	1391.71	1451.6325
+hgt origin	None	-1	15: -1 to GCF.900111015.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	536	GCF.900111015.1.Bacteria.Proteobacteria	15: -1 to GCF.900111015.1.Bacteria.Proteobacteria	1675.53	0.0	837.765
+hgt origin	None	dead	16: dead to GCA.002280485.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	503	GCA.002280485.1.Bacteria.Proteobacteria	16: dead to GCA.002280485.1.Bacteria.Proteobacteria	1116.0495	0.0	558.02475
+los	None	dead	NA	0.0	0.0	0.0
+spe	614	613	NA	1511.555	1391.71	1451.6325
+spe	613	612	NA	1391.71	1256.25	1323.98
+spe	612	611	NA	1256.25	936.1675	1096.20875
+hgt origin	611	GCF.000284615.1.Bacteria.Proteobacteria	17: GCF.000284615.1.Bacteria.Proteobacteria to GCF.001641825.1.Bacteria.Proteobacteria	936.1675	0.0	468.08375
+hgt	553	GCF.001641825.1.Bacteria.Proteobacteria	17: GCF.000284615.1.Bacteria.Proteobacteria to GCF.001641825.1.Bacteria.Proteobacteria	1596.945	0.0	798.4725
+spe	571	570	NA	1706.635	1535.435	1621.035
+spe	570	568	NA	1535.435	1379.435	1457.435
+hgt origin	568	GCF.001051235.1.Bacteria.Proteobacteria	18: GCF.001051235.1.Bacteria.Proteobacteria to GCA.002352565.1.Bacteria.Proteobacteria	1379.435	0.0	689.7175
+hgt	542	GCA.002352565.1.Bacteria.Proteobacteria	18: GCF.001051235.1.Bacteria.Proteobacteria to GCA.002352565.1.Bacteria.Proteobacteria	1583.705	0.0	791.8525
+los	568	GCF.001051235.1.Bacteria.Proteobacteria	NA	1379.435	0.0	689.7175
+hgt origin	568	GCA.002862435.1.Bacteria.Proteobacteria	19: GCA.002862435.1.Bacteria.Proteobacteria to dead	1379.435	0.0	689.7175
+hgt	None	dead	19: GCA.002862435.1.Bacteria.Proteobacteria to dead	0.0	0.0	0.0
+hgt origin	None	-1	20: -1 to GCA.002085445.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	603	GCA.002085445.1.Bacteria.Proteobacteria	20: -1 to GCA.002085445.1.Bacteria.Proteobacteria	1696.92	0.0	848.46
+hgt origin	None	dead	21: dead to GCF.001720165.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	592	GCF.001720165.1.Bacteria.Proteobacteria	21: dead to GCF.001720165.1.Bacteria.Proteobacteria	1273.215	0.0	636.6075
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	570	GCA.002255365.1.Bacteria.Proteobacteria	22: GCA.002255365.1.Bacteria.Proteobacteria to GCF.000374645.1.Bacteria.Proteobacteria	1535.435	0.0	767.7175
+hgt	574	GCF.000374645.1.Bacteria.Proteobacteria	22: GCA.002255365.1.Bacteria.Proteobacteria to GCF.000374645.1.Bacteria.Proteobacteria	1330.6	0.0	665.3

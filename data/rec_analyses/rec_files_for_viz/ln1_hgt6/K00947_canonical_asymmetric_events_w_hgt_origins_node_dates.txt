@@ -1,0 +1,65 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	842	841	NA	2481.42	2397.295	2439.3575
+hgt origin	841	801	1: 801 to dead	2397.295	2073.125	2235.21
+hgt	None	dead	1: 801 to dead	0.0	0.0	0.0
+hgt origin	841	801	2: 801 to dead	2397.295	2073.125	2235.21
+hgt	None	dead	2: 801 to dead	0.0	0.0	0.0
+hgt origin	None	dead	3: dead to GCA.002348045.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1452	GCA.002348045.1.Bacteria.Chloroflexota	3: dead to GCA.002348045.1.Bacteria.Chloroflexota	1623.74	0.0	811.87
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	841	801	4: 801 to dead	2397.295	2073.125	2235.21
+hgt	None	dead	4: 801 to dead	0.0	0.0	0.0
+hgt origin	None	dead	5: dead to GCA.001896555.1.Bacteria.Desulfobacterota	0.0	0.0	0.0
+hgt	849	GCA.001896555.1.Bacteria.Desulfobacterota	5: dead to GCA.001896555.1.Bacteria.Desulfobacterota	1938.415	0.0	969.2075
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	841	801	6: 801 to dead	2397.295	2073.125	2235.21
+hgt	None	dead	6: 801 to dead	0.0	0.0	0.0
+hgt origin	None	dead	7: dead to GCA.002418835.1.Bacteria.Spirochaetota	0.0	0.0	0.0
+hgt	376	GCA.002418835.1.Bacteria.Spirochaetota	7: dead to GCA.002418835.1.Bacteria.Spirochaetota	2164.345	0.0	1082.1725
+los	None	dead	NA	0.0	0.0	0.0
+spe	841	801	NA	2397.295	2073.125	2235.21
+hgt origin	801	GCA.001797815.1.Bacteria.RBG.13.61.14	8: GCA.001797815.1.Bacteria.RBG.13.61.14 to dead	2073.125	0.0	1036.5625
+hgt	None	dead	8: GCA.001797815.1.Bacteria.RBG.13.61.14 to dead	0.0	0.0	0.0
+los	801	GCA.001797815.1.Bacteria.RBG.13.61.14	NA	2073.125	0.0	1036.5625
+hgt origin	None	dead	9: dead to GCA.002347365.1.Bacteria.Actinobacteriota	0.0	0.0	0.0
+hgt	1183	GCA.002347365.1.Bacteria.Actinobacteriota	9: dead to GCA.002347365.1.Bacteria.Actinobacteriota	2026.845	0.0	1013.4225
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	10: dead to GCA.003140235.1.Bacteria.Acidobacteriota	0.0	0.0	0.0
+hgt	692	GCA.003140235.1.Bacteria.Acidobacteriota	10: dead to GCA.003140235.1.Bacteria.Acidobacteriota	1141.9465	0.0	570.97325
+los	None	dead	NA	0.0	0.0	0.0
+dup	692	GCA.003140235.1.Bacteria.Acidobacteriota	NA	1141.9465	0.0	570.97325
+spe	841	840	NA	2397.295	2199.32	2298.3075
+los	840	804	NA	2199.32	2020.19	2109.755
+spe	840	839	NA	2199.32	2107.47	2153.395
+spe	839	838	NA	2107.47	1933.55	2020.51
+los	838	834	NA	1933.55	1863.715	1898.6325
+hgt origin	838	837	11: 837 to dead	1933.55	1633.315	1783.4325
+hgt	None	dead	11: 837 to dead	0.0	0.0	0.0
+spe	838	837	NA	1933.55	1633.315	1783.4325
+los	837	GCA.002309015.1.Bacteria.Myxococcota	NA	1633.315	0.0	816.6575
+hgt origin	None	dead	12: dead to 86	0.0	0.0	0.0
+hgt	87	86	12: dead to 86	1733.555	1547.845	1640.7
+los	None	dead	NA	0.0	0.0	0.0
+spe	87	86	NA	1733.555	1547.845	1640.7
+spe	86	84	NA	1547.845	1360.205	1454.025
+los	84	GCF.000970205.1.Archaea.Halobacteriota	NA	1360.205	0.0	680.1025
+spe	839	829	NA	2107.47	2062.825	2085.1475
+los	829	817	NA	2062.825	1903.64	1983.2325
+hgt origin	829	828	13: 828 to dead	2062.825	1800.295	1931.56
+hgt	None	dead	13: 828 to dead	0.0	0.0	0.0
+spe	829	828	NA	2062.825	1800.295	1931.56
+los	828	GCA.002699025.1.Bacteria.Myxococcota	NA	1800.295	0.0	900.1475
+spe	828	827	NA	1800.295	1682.675	1741.485
+los	827	821	NA	1682.675	1480.98	1581.8275
+spe	827	826	NA	1682.675	1516.045	1599.36
+los	826	GCA.002747355.1.Bacteria.Myxococcota	NA	1516.045	0.0	758.0225
+spe	826	825	NA	1516.045	1214.79	1365.4175
+hgt origin	None	dead	14: dead to GCA.001780825.1.Bacteria.Gemmatimonadota	0.0	0.0	0.0
+hgt	926	GCA.001780825.1.Bacteria.Gemmatimonadota	14: dead to GCA.001780825.1.Bacteria.Gemmatimonadota	2372.335	0.0	1186.1675
+los	None	dead	NA	0.0	0.0	0.0
+dup	926	GCA.001780825.1.Bacteria.Gemmatimonadota	NA	2372.335	0.0	1186.1675
+hgt origin	926	GCA.001780825.1.Bacteria.Gemmatimonadota	15: GCA.001780825.1.Bacteria.Gemmatimonadota to dead	2372.335	0.0	1186.1675
+hgt	None	dead	15: GCA.001780825.1.Bacteria.Gemmatimonadota to dead	0.0	0.0	0.0
+hgt origin	None	dead	16: dead to GCA.002344285.1.Bacteria.Myxococcota	0.0	0.0	0.0
+hgt	825	GCA.002344285.1.Bacteria.Myxococcota	16: dead to GCA.002344285.1.Bacteria.Myxococcota	1214.79	0.0	607.395
+los	None	dead	NA	0.0	0.0	0.0

@@ -1,0 +1,40 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	1180	GCF.001029505.1.Bacteria.Actinobacteriota	1: GCF.001029505.1.Bacteria.Actinobacteriota to dead	2135.205	0.0	1067.6025
+hgt	None	dead	1: GCF.001029505.1.Bacteria.Actinobacteriota to dead	0.0	0.0	0.0
+hgt origin	1180	GCF.001029505.1.Bacteria.Actinobacteriota	2: GCF.001029505.1.Bacteria.Actinobacteriota to dead	2135.205	0.0	1067.6025
+hgt	None	dead	2: GCF.001029505.1.Bacteria.Actinobacteriota to dead	0.0	0.0	0.0
+hgt origin	None	dead	3: dead to GCF.900066015.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1437	GCF.900066015.1.Bacteria.Chloroflexota	3: dead to GCF.900066015.1.Bacteria.Chloroflexota	1179.4025	0.0	589.70125
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCA.001898225.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1469	GCA.001898225.1.Bacteria.Chloroflexota	4: dead to GCA.001898225.1.Bacteria.Chloroflexota	1899.175	0.0	949.5875
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	1469	GCA.001898225.1.Bacteria.Chloroflexota	5: GCA.001898225.1.Bacteria.Chloroflexota to dead	1899.175	0.0	949.5875
+hgt	None	dead	5: GCA.001898225.1.Bacteria.Chloroflexota to dead	0.0	0.0	0.0
+hgt origin	None	dead	6: dead to 169	0.0	0.0	0.0
+hgt	170	169	6: dead to 169	1385.215	1257.45	1321.3325
+los	None	dead	NA	0.0	0.0	0.0
+spe	170	169	NA	1385.215	1257.45	1321.3325
+spe	169	155	NA	1257.45	1058.614	1158.032
+los	155	GCF.000165345.1.Eukaryota.Apicocomplexa	NA	1058.614	0.0	529.307
+spe	169	168	NA	1257.45	1203.215	1230.3325
+hgt origin	168	167	7: 167 to dead	1203.215	1031.0195	1117.11725
+hgt	None	dead	7: 167 to dead	0.0	0.0	0.0
+hgt origin	None	dead	8: dead to GCA.000209225.1.Eukaryota.Cnidaria	0.0	0.0	0.0
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	8: dead to GCA.000209225.1.Eukaryota.Cnidaria	815.5625	0.0	407.78125
+los	None	dead	NA	0.0	0.0	0.0
+spe	168	167	NA	1203.215	1031.0195	1117.11725
+spe	167	166	NA	1031.0195	815.5625	923.291
+hgt origin	166	165	9: 165 to dead	815.5625	570.5515	693.057
+hgt	None	dead	9: 165 to dead	0.0	0.0	0.0
+los	166	165	NA	815.5625	570.5515	693.057
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	10: dead to GCA.000209225.1.Eukaryota.Cnidaria	0.0	0.0	0.0
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	10: dead to GCA.000209225.1.Eukaryota.Cnidaria	815.5625	0.0	407.78125
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	11: dead to GCA.000209225.1.Eukaryota.Cnidaria	0.0	0.0	0.0
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	11: dead to GCA.000209225.1.Eukaryota.Cnidaria	815.5625	0.0	407.78125
+los	None	dead	NA	0.0	0.0	0.0
+spe	168	160	NA	1203.215	1138.49	1170.8525
+spe	160	159	NA	1138.49	1074.125	1106.3075
+los	159	GCF.000091205.1.Eukaryota.Rhodophyta	NA	1074.125	0.0	537.0625

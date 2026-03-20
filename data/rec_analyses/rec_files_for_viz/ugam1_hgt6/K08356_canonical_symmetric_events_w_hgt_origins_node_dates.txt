@@ -1,0 +1,29 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	277	276	NA	2637.64	2570.7	2604.17
+spe	276	275	NA	2570.7	2298.405	2434.5525
+los	275	274	NA	2298.405	1625.32	1961.8625
+spe	276	270	NA	2570.7	2158.53	2364.615
+hgt origin	270	GCA.001567115.1.Bacteria.OLB16	1: GCA.001567115.1.Bacteria.OLB16 to 754	2158.53	0.0	1079.265
+hgt	756	754	1: GCA.001567115.1.Bacteria.OLB16 to 754	2320.99	2042.42	2181.705
+los	270	GCA.001567115.1.Bacteria.OLB16	NA	2158.53	0.0	1079.265
+spe	756	754	NA	2320.99	2042.42	2181.705
+spe	754	746	NA	2042.42	1667.435	1854.9275
+hgt origin	746	GCF.900079095.1.Bacteria.Tectomicrobia	2: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.001771285.1.Bacteria.Methylomirabilota	1667.435	0.0	833.7175
+hgt	741	GCA.001771285.1.Bacteria.Methylomirabilota	2: GCF.900079095.1.Bacteria.Tectomicrobia to GCA.001771285.1.Bacteria.Methylomirabilota	1693.345	0.0	846.6725
+los	746	GCF.900079095.1.Bacteria.Tectomicrobia	NA	1667.435	0.0	833.7175
+spe	754	753	NA	2042.42	1778.33	1910.375
+los	753	GCA.001803565.1.Bacteria.Nitrospinota.B	NA	1778.33	0.0	889.165
+spe	753	751	NA	1778.33	1613.625	1695.9775
+hgt origin	751	749	3: 749 to GCA.002401295.1.Bacteria.SAR324	1613.625	1448.555	1531.09
+hgt	400	GCA.002401295.1.Bacteria.SAR324	3: 749 to GCA.002401295.1.Bacteria.SAR324	1933.765	0.0	966.8825
+hgt origin	751	749	4: 749 to dead	1613.625	1448.555	1531.09
+hgt	None	dead	4: 749 to dead	0.0	0.0	0.0
+hgt origin	None	dead	5: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	5: dead to GCA.002731375.1.Bacteria.Proteobacteria	1261.48	0.0	630.74
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	751	749	6: 749 to dead	1613.625	1448.555	1531.09
+hgt	None	dead	6: 749 to dead	0.0	0.0	0.0
+los	751	749	NA	1613.625	1448.555	1531.09
+hgt origin	None	dead	7: dead to GCF.003097315.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	7: dead to GCF.003097315.1.Bacteria.Proteobacteria	1391.71	0.0	695.855
+los	None	dead	NA	0.0	0.0	0.0

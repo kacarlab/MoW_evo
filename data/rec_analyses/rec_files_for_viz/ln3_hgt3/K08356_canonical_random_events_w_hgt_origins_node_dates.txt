@@ -1,0 +1,27 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	277	276	NA	3121.045	3066.185	3093.615
+spe	276	270	NA	3066.185	2744.13	2905.1575
+hgt origin	270	GCA.001567115.1.Bacteria.OLB16	1: GCA.001567115.1.Bacteria.OLB16 to GCA.001771285.1.Bacteria.Methylomirabilota	2744.13	0.0	1372.065
+hgt	741	GCA.001771285.1.Bacteria.Methylomirabilota	1: GCA.001567115.1.Bacteria.OLB16 to GCA.001771285.1.Bacteria.Methylomirabilota	2052.975	0.0	1026.4875
+hgt origin	270	GCA.001567115.1.Bacteria.OLB16	2: GCA.001567115.1.Bacteria.OLB16 to GCA.002238965.1.Bacteria.UBA8248	2744.13	0.0	1372.065
+hgt	746	GCA.002238965.1.Bacteria.UBA8248	2: GCA.001567115.1.Bacteria.OLB16 to GCA.002238965.1.Bacteria.UBA8248	1971.165	0.0	985.5825
+los	270	GCA.001567115.1.Bacteria.OLB16	NA	2744.13	0.0	1372.065
+spe	276	275	NA	3066.185	2803.71	2934.9475
+hgt origin	275	274	3: 274 to dead	2803.71	2054.16	2428.935
+hgt	None	dead	3: 274 to dead	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCA.002500605.1.Bacteria.Nitrospinota	0.0	0.0	0.0
+hgt	751	GCA.002500605.1.Bacteria.Nitrospinota	4: dead to GCA.002500605.1.Bacteria.Nitrospinota	1894.43	0.0	947.215
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	275	274	5: 274 to GCA.002401295.1.Bacteria.SAR324	2803.71	2054.16	2428.935
+hgt	400	GCA.002401295.1.Bacteria.SAR324	5: 274 to GCA.002401295.1.Bacteria.SAR324	2337.685	0.0	1168.8425
+hgt origin	275	274	6: 274 to dead	2803.71	2054.16	2428.935
+hgt	None	dead	6: 274 to dead	0.0	0.0	0.0
+hgt origin	None	dead	7: dead to GCA.002731375.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	498	GCA.002731375.1.Bacteria.Proteobacteria	7: dead to GCA.002731375.1.Bacteria.Proteobacteria	1100.442	0.0	550.221
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	275	274	8: 274 to dead	2803.71	2054.16	2428.935
+hgt	None	dead	8: 274 to dead	0.0	0.0	0.0
+los	275	274	NA	2803.71	2054.16	2428.935
+hgt origin	None	dead	9: dead to GCF.003097315.1.Bacteria.Proteobacteria	0.0	0.0	0.0
+hgt	613	GCF.003097315.1.Bacteria.Proteobacteria	9: dead to GCF.003097315.1.Bacteria.Proteobacteria	1308.6	0.0	654.3
+los	None	dead	NA	0.0	0.0	0.0

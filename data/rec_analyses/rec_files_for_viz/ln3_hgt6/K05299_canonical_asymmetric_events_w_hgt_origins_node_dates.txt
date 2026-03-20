@@ -1,0 +1,70 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	1091	1083	NA	3217.11	3012.98	3115.045
+spe	1083	1071	NA	3012.98	2762.345	2887.6625
+los	1071	1070	NA	2762.345	2441.355	2601.85
+hgt origin	1071	1063	1: 1063 to dead	2762.345	1761.17	2261.7575
+hgt	None	dead	1: 1063 to dead	0.0	0.0	0.0
+spe	1071	1063	NA	2762.345	1761.17	2261.7575
+los	1063	1061	NA	1761.17	1425.15	1593.16
+hgt origin	None	dead	2: dead to GCF.000949635.1.Bacteria.Planctomycetota	0.0	0.0	0.0
+hgt	359	GCF.000949635.1.Bacteria.Planctomycetota	2: dead to GCF.000949635.1.Bacteria.Planctomycetota	1819.66	0.0	909.83
+los	None	dead	NA	0.0	0.0	0.0
+spe	1083	1082	NA	3012.98	2820.665	2916.8225
+hgt origin	1082	1080	3: 1080 to dead	2820.665	2542.65	2681.6575
+hgt	None	dead	3: 1080 to dead	0.0	0.0	0.0
+los	1082	1080	NA	2820.665	2542.65	2681.6575
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCA.003498085.1.Bacteria.UBA9089	0.0	0.0	0.0
+hgt	194	GCA.003498085.1.Bacteria.UBA9089	4: dead to GCA.003498085.1.Bacteria.UBA9089	2640.625	0.0	1320.3125
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	194	GCA.003498085.1.Bacteria.UBA9089	5: GCA.003498085.1.Bacteria.UBA9089 to dead	2640.625	0.0	1320.3125
+hgt	None	dead	5: GCA.003498085.1.Bacteria.UBA9089 to dead	0.0	0.0	0.0
+hgt origin	None	dead	6: dead to 1426	0.0	0.0	0.0
+hgt	1427	1426	6: dead to 1426	2362.135	2179.07	2270.6025
+los	None	dead	NA	0.0	0.0	0.0
+spe	1427	1426	NA	2362.135	2179.07	2270.6025
+spe	1426	1425	NA	2179.07	1957.375	2068.2225
+los	1425	GCA.003229915.1.Bacteria.Chloroflexota	NA	1957.375	0.0	978.6875
+spe	1425	1424	NA	1957.375	1821.17	1889.2725
+los	1424	GCA.002011475.1.Bacteria.Chloroflexota	NA	1821.17	0.0	910.585
+spe	1424	1422	NA	1821.17	1675.19	1748.18
+los	1422	GCA.003484395.1.Bacteria.Chloroflexota	NA	1675.19	0.0	837.595
+spe	1422	1421	NA	1675.19	1634.78	1654.985
+los	1421	GCA.002347295.1.Bacteria.Chloroflexota	NA	1634.78	0.0	817.39
+dup	1421	1419	NA	1634.78	1500.065	1567.4225
+spe	1421	1419	NA	1634.78	1500.065	1567.4225
+los	1419	GCA.002352365.1.Bacteria.Chloroflexota	NA	1500.065	0.0	750.0325
+hgt origin	1421	1419	7: 1419 to dead	1634.78	1500.065	1567.4225
+hgt	None	dead	7: 1419 to dead	0.0	0.0	0.0
+hgt origin	None	dead	8: dead to GCA.002256595.1.Archaea.Halobacteriota	0.0	0.0	0.0
+hgt	87	GCA.002256595.1.Archaea.Halobacteriota	8: dead to GCA.002256595.1.Archaea.Halobacteriota	1522.785	0.0	761.3925
+los	None	dead	NA	0.0	0.0	0.0
+spe	1421	1419	NA	1634.78	1500.065	1567.4225
+dup	1419	GCA.002352365.1.Bacteria.Chloroflexota	NA	1500.065	0.0	750.0325
+hgt origin	1426	GCF.001953175.1.Bacteria.Chloroflexota	9: GCF.001953175.1.Bacteria.Chloroflexota to dead	2179.07	0.0	1089.535
+hgt	None	dead	9: GCF.001953175.1.Bacteria.Chloroflexota to dead	0.0	0.0	0.0
+hgt origin	None	dead	10: dead to GCA.002451015.1.Bacteria.Acidobacteriota	0.0	0.0	0.0
+hgt	686	GCA.002451015.1.Bacteria.Acidobacteriota	10: dead to GCA.002451015.1.Bacteria.Acidobacteriota	1646.29	0.0	823.145
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	11: dead to 1326	0.0	0.0	0.0
+hgt	1327	1326	11: dead to 1326	2593.555	2394.985	2494.27
+los	None	dead	NA	0.0	0.0	0.0
+spe	1327	1326	NA	2593.555	2394.985	2494.27
+spe	1326	1292	NA	2394.985	1918.11	2156.5475
+los	1292	GCF.001950325.1.Bacteria.Firmicutes.B	NA	1918.11	0.0	959.055
+spe	1326	1325	NA	2394.985	2206.925	2300.955
+los	1325	1297	NA	2206.925	1941.385	2074.155
+spe	1325	1324	NA	2206.925	2099.855	2153.39
+los	1324	1308	NA	2099.855	1873.47	1986.6625
+spe	1324	1323	NA	2099.855	2012.64	2056.2475
+los	1323	1322	NA	2012.64	1664.355	1838.4975
+spe	1323	1319	NA	2012.64	1887.42	1950.03
+spe	1319	1318	NA	1887.42	1776.335	1831.8775
+los	1318	1317	NA	1776.335	1176.776	1476.5555
+hgt origin	1318	1312	12: 1312 to dead	1776.335	1489.285	1632.81
+hgt	None	dead	12: 1312 to dead	0.0	0.0	0.0
+spe	1318	1312	NA	1776.335	1489.285	1632.81
+los	1312	GCF.002607855.1.Bacteria.Firmicutes.B	NA	1489.285	0.0	744.6425
+hgt origin	None	dead	13: dead to GCA.003130875.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1445	GCA.003130875.1.Bacteria.Chloroflexota	13: dead to GCA.003130875.1.Bacteria.Chloroflexota	1683.66	0.0	841.83
+los	None	dead	NA	0.0	0.0	0.0

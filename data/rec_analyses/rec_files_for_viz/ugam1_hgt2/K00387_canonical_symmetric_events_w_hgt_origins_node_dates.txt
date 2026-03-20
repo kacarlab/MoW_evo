@@ -1,0 +1,26 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+hgt origin	170	169	1: 169 to GCF.001029505.1.Bacteria.Actinobacteriota	1645.265	1475.775	1560.52
+hgt	1180	GCF.001029505.1.Bacteria.Actinobacteriota	1: 169 to GCF.001029505.1.Bacteria.Actinobacteriota	1876.995	0.0	938.4975
+hgt origin	170	169	2: 169 to GCA.001898225.1.Bacteria.Chloroflexota	1645.265	1475.775	1560.52
+hgt	1469	GCA.001898225.1.Bacteria.Chloroflexota	2: 169 to GCA.001898225.1.Bacteria.Chloroflexota	1574.225	0.0	787.1125
+spe	170	169	NA	1645.265	1475.775	1560.52
+spe	169	155	NA	1475.775	1215.125	1345.45
+los	155	GCF.000165345.1.Eukaryota.Apicocomplexa	NA	1215.125	0.0	607.5625
+spe	169	168	NA	1475.775	1389.275	1432.525
+hgt origin	168	167	3: 167 to dead	1389.275	1219.565	1304.42
+hgt	None	dead	3: 167 to dead	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCA.000209225.1.Eukaryota.Cnidaria	0.0	0.0	0.0
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	4: dead to GCA.000209225.1.Eukaryota.Cnidaria	946.8465	0.0	473.42325
+los	None	dead	NA	0.0	0.0	0.0
+spe	168	167	NA	1389.275	1219.565	1304.42
+spe	167	166	NA	1219.565	946.8465	1083.20575
+hgt origin	166	165	5: 165 to GCA.000209225.1.Eukaryota.Cnidaria	946.8465	694.719	820.78275
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	5: 165 to GCA.000209225.1.Eukaryota.Cnidaria	946.8465	0.0	473.42325
+hgt origin	166	165	6: 165 to GCA.000209225.1.Eukaryota.Cnidaria	946.8465	694.719	820.78275
+hgt	166	GCA.000209225.1.Eukaryota.Cnidaria	6: 165 to GCA.000209225.1.Eukaryota.Cnidaria	946.8465	0.0	473.42325
+los	166	165	NA	946.8465	694.719	820.78275
+spe	168	160	NA	1389.275	1269.475	1329.375
+spe	160	159	NA	1269.475	1084.09	1176.7825
+los	159	GCF.000091205.1.Eukaryota.Rhodophyta	NA	1084.09	0.0	542.045
+hgt origin	1180	GCF.001029505.1.Bacteria.Actinobacteriota	7: GCF.001029505.1.Bacteria.Actinobacteriota to GCF.900066015.1.Bacteria.Chloroflexota	1876.995	0.0	938.4975
+hgt	1437	GCF.900066015.1.Bacteria.Chloroflexota	7: GCF.001029505.1.Bacteria.Actinobacteriota to GCF.900066015.1.Bacteria.Chloroflexota	1158.264	0.0	579.132

@@ -1,0 +1,58 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	139	109	NA	2461.325	2207.27	2334.2975
+hgt origin	109	108	1: 108 to dead	2207.27	1901.755	2054.5125
+hgt	None	dead	1: 108 to dead	0.0	0.0	0.0
+hgt origin	None	dead	2: dead to GCA.002877985.1.Bacteria.Desulfobacterota	0.0	0.0	0.0
+hgt	866	GCA.002877985.1.Bacteria.Desulfobacterota	2: dead to GCA.002877985.1.Bacteria.Desulfobacterota	1370.345	0.0	685.1725
+los	None	dead	NA	0.0	0.0	0.0
+spe	109	108	NA	2207.27	1901.755	2054.5125
+los	108	107	NA	1901.755	1609.36	1755.5575
+spe	109	103	NA	2207.27	1834.935	2021.1025
+los	103	GCA.002254745.1.Archaea.Thermoproteota	NA	1834.935	0.0	917.4675
+spe	103	101	NA	1834.935	1617.2	1726.0675
+los	101	GCF.000011205.1.Archaea.Thermoproteota	NA	1617.2	0.0	808.6
+spe	101	99	NA	1617.2	1407.615	1512.4075
+hgt origin	99	GCF.000092185.1.Archaea.Thermoproteota	3: GCF.000092185.1.Archaea.Thermoproteota to dead	1407.615	0.0	703.8075
+hgt	None	dead	3: GCF.000092185.1.Archaea.Thermoproteota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCF.000025525.1.Archaea.Methanobacteriota.A	0.0	0.0	0.0
+hgt	93	GCF.000025525.1.Archaea.Methanobacteriota.A	4: dead to GCF.000025525.1.Archaea.Methanobacteriota.A	2518.68	0.0	1259.34
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	5: dead to GCF.002214485.1.Archaea.Methanobacteriota.B	0.0	0.0	0.0
+hgt	38	GCF.002214485.1.Archaea.Methanobacteriota.B	5: dead to GCF.002214485.1.Archaea.Methanobacteriota.B	2097.27	0.0	1048.635
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	99	GCF.000092185.1.Archaea.Thermoproteota	6: GCF.000092185.1.Archaea.Thermoproteota to dead	1407.615	0.0	703.8075
+hgt	None	dead	6: GCF.000092185.1.Archaea.Thermoproteota to dead	0.0	0.0	0.0
+hgt origin	None	dead	7: dead to GCA.002841995.1.Bacteria.Chloroflexota	0.0	0.0	0.0
+hgt	1438	GCA.002841995.1.Bacteria.Chloroflexota	7: dead to GCA.002841995.1.Bacteria.Chloroflexota	1310.445	0.0	655.2225
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	1438	GCA.002841995.1.Bacteria.Chloroflexota	8: GCA.002841995.1.Bacteria.Chloroflexota to dead	1310.445	0.0	655.2225
+hgt	None	dead	8: GCA.002841995.1.Bacteria.Chloroflexota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	9: dead to GCA.002418835.1.Bacteria.Spirochaetota	0.0	0.0	0.0
+hgt	376	GCA.002418835.1.Bacteria.Spirochaetota	9: dead to GCA.002418835.1.Bacteria.Spirochaetota	2123.16	0.0	1061.58
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	376	GCA.002418835.1.Bacteria.Spirochaetota	10: GCA.002418835.1.Bacteria.Spirochaetota to dead	2123.16	0.0	1061.58
+hgt	None	dead	10: GCA.002418835.1.Bacteria.Spirochaetota to dead	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	11: dead to GCA.002841825.1.Bacteria.Myxococcota	0.0	0.0	0.0
+hgt	821	GCA.002841825.1.Bacteria.Myxococcota	11: dead to GCA.002841825.1.Bacteria.Myxococcota	1447.61	0.0	723.805
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	12: dead to GCA.001829315.1.Bacteria.Spirochaetota	0.0	0.0	0.0
+hgt	383	GCA.001829315.1.Bacteria.Spirochaetota	12: dead to GCA.001829315.1.Bacteria.Spirochaetota	1865.655	0.0	932.8275
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	13: dead to GCA.001799695.1.Bacteria.Elusimicrobiota	0.0	0.0	0.0
+hgt	248	GCA.001799695.1.Bacteria.Elusimicrobiota	13: dead to GCA.001799695.1.Bacteria.Elusimicrobiota	1175.891	0.0	587.9455
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	14: dead to GCA.000739515.1.Bacteria.Moduliflexota	0.0	0.0	0.0
+hgt	895	GCA.000739515.1.Bacteria.Moduliflexota	14: dead to GCA.000739515.1.Bacteria.Moduliflexota	2183.84	0.0	1091.92
+los	None	dead	NA	0.0	0.0	0.0
+dup	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	15: dead to GCA.003242895.1.Bacteria.Margulisbacteria	0.0	0.0	0.0
+hgt	1651	GCA.003242895.1.Bacteria.Margulisbacteria	15: dead to GCA.003242895.1.Bacteria.Margulisbacteria	2128.215	0.0	1064.1075
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	16: dead to GCA.002451015.1.Bacteria.Acidobacteriota	0.0	0.0	0.0
+hgt	686	GCA.002451015.1.Bacteria.Acidobacteriota	16: dead to GCA.002451015.1.Bacteria.Acidobacteriota	1646.29	0.0	823.145
+los	None	dead	NA	0.0	0.0	0.0

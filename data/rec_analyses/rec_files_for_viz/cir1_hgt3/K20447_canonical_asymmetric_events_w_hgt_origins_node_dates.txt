@@ -1,0 +1,66 @@
+event	left_node	right_node	hgt_id	left_date	right_date	midpoint_date
+spe	1327	1326	NA	2828.71	2719.225	2773.9675
+spe	1326	1292	NA	2719.225	2370.88	2545.0525
+hgt origin	1292	GCF.000024605.1.Bacteria.Firmicutes.B	1: GCF.000024605.1.Bacteria.Firmicutes.B to dead	2370.88	0.0	1185.44
+hgt	None	dead	1: GCF.000024605.1.Bacteria.Firmicutes.B to dead	0.0	0.0	0.0
+los	1292	GCF.000024605.1.Bacteria.Firmicutes.B	NA	2370.88	0.0	1185.44
+hgt origin	None	dead	2: dead to GCA.003527145.1.Bacteria.Firmicutes.A	0.0	0.0	0.0
+hgt	1258	GCA.003527145.1.Bacteria.Firmicutes.A	2: dead to GCA.003527145.1.Bacteria.Firmicutes.A	2095.365	0.0	1047.6825
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	1326	1325	3: 1325 to dead	2719.225	2604.385	2661.805
+hgt	None	dead	3: 1325 to dead	0.0	0.0	0.0
+hgt origin	None	dead	4: dead to GCF.900107485.1.Bacteria.Firmicutes.A	0.0	0.0	0.0
+hgt	1252	GCF.900107485.1.Bacteria.Firmicutes.A	4: dead to GCF.900107485.1.Bacteria.Firmicutes.A	2040.145	0.0	1020.0725
+los	None	dead	NA	0.0	0.0	0.0
+spe	1326	1325	NA	2719.225	2604.385	2661.805
+hgt origin	1325	1297	5: 1297 to dead	2604.385	2420.65	2512.5175
+hgt	None	dead	5: 1297 to dead	0.0	0.0	0.0
+spe	1325	1297	NA	2604.385	2420.65	2512.5175
+spe	1297	1296	NA	2420.65	2280.145	2350.3975
+hgt origin	1296	GCA.001513545.1.Bacteria.Firmicutes.B	6: GCA.001513545.1.Bacteria.Firmicutes.B to dead	2280.145	0.0	1140.0725
+hgt	None	dead	6: GCA.001513545.1.Bacteria.Firmicutes.B to dead	0.0	0.0	0.0
+los	1296	GCA.001513545.1.Bacteria.Firmicutes.B	NA	2280.145	0.0	1140.0725
+hgt origin	None	dead	7: dead to GCF.002257705.1.Bacteria.Firmicutes.C	0.0	0.0	0.0
+hgt	1281	GCF.002257705.1.Bacteria.Firmicutes.C	7: dead to GCF.002257705.1.Bacteria.Firmicutes.C	1642.245	0.0	821.1225
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	1297	GCA.002329495.1.Bacteria.Firmicutes.B	8: GCA.002329495.1.Bacteria.Firmicutes.B to dead	2420.65	0.0	1210.325
+hgt	None	dead	8: GCA.002329495.1.Bacteria.Firmicutes.B to dead	0.0	0.0	0.0
+los	1297	GCA.002329495.1.Bacteria.Firmicutes.B	NA	2420.65	0.0	1210.325
+hgt origin	None	dead	9: dead to 1308	0.0	0.0	0.0
+hgt	1324	1308	9: dead to 1308	2536.255	2377.745	2457.0
+los	None	dead	NA	0.0	0.0	0.0
+spe	1324	1308	NA	2536.255	2377.745	2457.0
+spe	1308	1300	NA	2377.745	2090.18	2233.9625
+los	1300	GCF.000620305.1.Bacteria.Firmicutes.B	NA	2090.18	0.0	1045.09
+spe	1308	1307	NA	2377.745	2196.38	2287.0625
+hgt origin	1307	1305	10: 1305 to dead	2196.38	2012.42	2104.4
+hgt	None	dead	10: 1305 to dead	0.0	0.0	0.0
+los	1307	1305	NA	2196.38	2012.42	2104.4
+hgt origin	None	dead	11: dead to GCA.003444595.1.Bacteria.Firmicutes.D	0.0	0.0	0.0
+hgt	1330	GCA.003444595.1.Bacteria.Firmicutes.D	11: dead to GCA.003444595.1.Bacteria.Firmicutes.D	2416.115	0.0	1208.0575
+los	None	dead	NA	0.0	0.0	0.0
+hgt origin	None	dead	12: dead to 1216	0.0	0.0	0.0
+hgt	1218	1216	12: dead to 1216	2947.155	2550.05	2748.6025
+los	None	dead	NA	0.0	0.0	0.0
+spe	1218	1216	NA	2947.155	2550.05	2748.6025
+hgt origin	1216	GCF.000020005.1.Bacteria.Firmicutes.D	13: GCF.000020005.1.Bacteria.Firmicutes.D to dead	2550.05	0.0	1275.025
+hgt	None	dead	13: GCF.000020005.1.Bacteria.Firmicutes.D to dead	0.0	0.0	0.0
+hgt origin	None	dead	14: dead to GCF.900107485.1.Bacteria.Firmicutes.A	0.0	0.0	0.0
+hgt	1252	GCF.900107485.1.Bacteria.Firmicutes.A	14: dead to GCF.900107485.1.Bacteria.Firmicutes.A	2040.145	0.0	1020.0725
+los	None	dead	NA	0.0	0.0	0.0
+spe	1216	1215	NA	2550.05	2030.585	2290.3175
+spe	1325	1324	NA	2604.385	2536.255	2570.32
+spe	1324	1308	NA	2536.255	2377.745	2457.0
+spe	1308	1300	NA	2377.745	2090.18	2233.9625
+los	1300	GCA.002418765.1.Bacteria.Firmicutes.B	NA	2090.18	0.0	1045.09
+spe	1308	1307	NA	2377.745	2196.38	2287.0625
+los	1307	1305	NA	2196.38	2012.42	2104.4
+spe	1324	1323	NA	2536.255	2478.3	2507.2775
+los	1323	1322	NA	2478.3	2209.475	2343.8875
+hgt origin	1323	1319	15: 1319 to dead	2478.3	2388.655	2433.4775
+hgt	None	dead	15: 1319 to dead	0.0	0.0	0.0
+hgt origin	None	dead	16: dead to GCF.900176005.1.Bacteria.Firmicutes.B	0.0	0.0	0.0
+hgt	1296	GCF.900176005.1.Bacteria.Firmicutes.B	16: dead to GCF.900176005.1.Bacteria.Firmicutes.B	2280.145	0.0	1140.0725
+los	None	dead	NA	0.0	0.0	0.0
+spe	1323	1319	NA	2478.3	2388.655	2433.4775
+los	1319	1318	NA	2388.655	2305.29	2346.9725
